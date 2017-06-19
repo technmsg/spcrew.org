@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: resources,manuals -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2017-06-16T22:30:00-05:00 -->
+<!-- updated: 2017-06-19T07:30:00-05:00 -->
 <!-- summary: The secret stash of guides, manuals, and other resources that enable the SPHS tech crew to do what we do. -->
 
 # Resources
@@ -10,6 +10,14 @@
 Let us know if a link is broken; we have most of the PDFs archived in Google Drive and can provide access that way too.
 
 ## Lighting
+
+[Canto 700](http://www.cantousa.com/followspots/) Followspots
+
+* Manual ([PDF](http://www.cantousa.com/download/291))
+* Parts Manual ([PDF](http://www.cantousa.com/download/102))
+* Shop Manual ([PDF](http://www.cantousa.com/download/318))
+* User Manual ([PDF](http://www.cantousa.com/download/100))
+* Warranty ([PDF](http://www.cantousa.com/download/98))
 
 [ETC Ion](https://www.etcconnect.com/Products/Consoles/Eos-Family/Ion/Features.aspx) family
 
