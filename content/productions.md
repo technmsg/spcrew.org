@@ -2,14 +2,14 @@
 <!-- categories: pages -->
 <!-- tags: productions -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2017-06-19T07:30:00-05:00 -->
+<!-- updated: 2017-06-25T07:30:00-05:00 -->
 <!-- summary: Past productions and events that SPHS tech crew have worked on, including galleries of show shirts, programs, and other memorabilia. -->
 
 # Productions
 
 A list of productions and events that the SPHS tech crew has supported over the years.
 
-In addition to these, we routinely support the following school groups: [band, chorus, and orchestra](http://www.sphsmusic.org) concerts, Dance Company rehearsals and recitals, evening high school graduation, [National Honor Society](https://www.nhs.us/) inductions, [One Act Plays](http://www.sphsdrama.com/one-act-plays.html), prom fashion show, S Factor, Sci-Fi movie nights, senior awards ceremony, [SP Cares](http://www.sphsdrama.com/severna-park-cares.html), [Tri-M](https://nafme.org/programs/tri-m-music-honor-society/), Talon Show, among others.
+In addition to these, we routinely support the following school groups at Severna Park High School: [band, chorus, and orchestra](http://www.sphsmusic.org) concerts, Dance Company rehearsals and recitals, evening high school graduation, [National Honor Society](https://www.nhs.us/) inductions, [One Act Plays](http://www.sphsdrama.com/one-act-plays.html), prom fashion show, S Factor, Sci-Fi movie nights, senior awards ceremony, [Severna Park Stage Company](http://www.sphsdrama.com/), [SP Cares](http://www.sphsdrama.com/severna-park-cares.html), [Tri-M](https://nafme.org/programs/tri-m-music-honor-society/), Talon Show, among others.
 
 We hope to consult the school's yearbook archive to fill in the remaining gaps. If you can help us with photographs of programs or show shirts, please [contact us](contact.html)!
 
@@ -22,7 +22,7 @@ We hope to consult the school's yearbook archive to fill in the remaining gaps. 
 
 ## The List
 
-Shows are listed in reverse chronological order, i.e. spring, winter, fall.
+Shows are listed in reverse chronological order within each school year, i.e. spring, winter, fall.
 
 ### 2017-2018 (announced)
 
@@ -61,6 +61,7 @@ Almost, Maine ([program](https://www.flickr.com/photos/techmsg/34975846930/in/al
 ### 2014-2015 (confirmed)
 
 Charlie and the Chocolate Factory
+<!-- https://allevents.in/severna%20park/sphs-charlie-and-the-chocolate-factory/413565678823260 -->
 
 RNR XXVI ([photos](https://www.flickr.com/photos/techmsg/albums/72157648028929824), [videos](https://www.youtube.com/playlist?list=PLBm3S-aCMv3SzggMNMofUfySYT3RZJKjH), [program](https://www.flickr.com/photos/techmsg/34975845290/in/album-72157681827771632/), [crew shirt](https://www.flickr.com/photos/techmsg/34551115203/in/album-72157682539235811/))
 
@@ -77,44 +78,57 @@ In the Heights ([videos](https://www.youtube.com/playlist?list=PL8c3Jg8vCpp--JUf
 ### 2012-2013 (confirmed)
 
 The Bully Plays
+<!-- patch: https://patch.com/maryland/severnapark/amp/13816136/les-miserable-severna-park-stage-company -->
 
 RNR XXIV ([photos](https://www.flickr.com/photos/techmsg/sets/72157663881333980), [videos](https://www.youtube.com/playlist?list=PLBm3S-aCMv3SU43Ay1xSpni4aNPKRBEKn), [program](https://www.flickr.com/photos/techmsg/35232961521/in/album-72157681827771632/))
 
 Les Miserables ([program](https://www.flickr.com/photos/techmsg/34975845750/in/album-72157681827771632/))
+<!-- patch: https://patch.com/maryland/severnapark/amp/13816136/les-miserable-severna-park-stage-company -->
  
 ### 2011-2012 (confirmed)
 
 Our Town
+<!-- patch: https://patch.com/maryland/severnapark/ev--our-town-presented-by-sphs-stage-company -->
 
 RNR XXIII ([videos](https://www.youtube.com/playlist?list=PLBm3S-aCMv3S7qqfFkRD_MTIKfDXAH8iL), [program](https://www.flickr.com/photos/techmsg/35196548762/in/album-72157681827771632/))
 
 Fiddler on the Roof ([program](https://www.flickr.com/photos/techmsg/35362862345/in/album-72157681827771632/))
+<!-- patch: https://patch.com/maryland/severnapark/severna-park-high-school-performs-fiddler-on-the-roof46d2310ffb -->
  
 ### 2010-2011 (confirmed)
 
 Romeo & Juliet
+<!-- voice: http://www.severnaparkvoice.com/community/sphs-rock-n-roll-revival-xxii-gets-motors-running -->
 
 RNR XXII ([videos](https://www.youtube.com/playlist?list=PLBm3S-aCMv3SvoeXdNpHIrG23HzD8Ct8G), [program](https://www.flickr.com/photos/techmsg/34975844580/in/album-72157681827771632/))
 
 Phantom of the Opera ([program](https://www.flickr.com/photos/techmsg/35320966356/in/album-72157681827771632/))
+<!-- patch: https://patch.com/maryland/severnapark/ev--phantom-of-the-opera -->
  
-### 2009-2010
+### 2009-2010 (confirmed)
 
-?
+The Winter's Tale ([shirt](https://www.flickr.com/photos/techmsg/35364794752/in/album-72157682539235811/))
+<!-- wayback: https://web.archive.org/web/20091119100453/http://www.sphsdrama.com:80/top_springPlay.html -->
 
 RNR XXI ([photos](https://www.flickr.com/photos/techmsg/sets/72157623309892644), [videos](https://www.youtube.com/playlist?list=PLBm3S-aCMv3Qlk11-8H-wmX-ooX-0tqh3), [program](https://www.flickr.com/photos/techmsg/34550462363/in/album-72157681827771632/))
 
 Bye Bye Birdie
+<!-- classmates: http://www.classmates.com/reunions/Severna-Park-High-School/Class-of-1999/223761 -->
+<!-- wayback: https://web.archive.org/web/20091119042219/http://www.sphsdrama.com:80/index.html -->
+<!-- wayback: https://web.archive.org/web/20101120155101/http://cappies.com/bal/shows.php -->
  
-### 2008-2009
+### 2008-2009 (confirmed)
 
 Install of ETC Sensor Rack ([photos](https://www.flickr.com/photos/techmsg/albums/72157604717337295))
 
-?
+The Mouse That Roared
+<!-- wayback: https://web.archive.org/web/20090106125748/http://www.sphsdrama.com/index.html -->
 
 RNR XX ([photos](https://www.flickr.com/photos/techmsg/sets/72157612839540458), [program](https://www.flickr.com/photos/techmsg/35232959321/in/album-72157681827771632/))
 
 The Sound of Music ([shirt](https://www.flickr.com/photos/techmsg/35225617522/))
+<!-- wayback: https://web.archive.org/web/20090106125140/http://www.sphsdrama.com/fallMusical/top_fallMusical.html -->
+<!-- wayback: https://web.archive.org/web/20101120155101/http://cappies.com/bal/shows.php -->
  
 ### 2007-2008
 
@@ -128,51 +142,60 @@ Pirates of Penzance (Kat)
 
 ### 2006-2007
 
-Beauty and the Beast (Kat, [shirt](https://www.flickr.com/photos/techmsg/34517598264/in/album-72157682539235811/))
+?
 
 RNR XVIII ([videos](https://www.youtube.com/playlist?list=PLBm3S-aCMv3SMrvSTV1vVEen2DeRWVnsh), [program](https://www.flickr.com/photos/techmsg/34975843170/in/album-72157681827771632/), [shirt](https://www.flickr.com/photos/techmsg/35194162922/in/album-72157682539235811/))
 
 High School Musical
+<!-- sun: http://articles.baltimoresun.com/2008-02-19/news/0802190061_1_school-musical-severna-park-high-school -->
  
-### 2005-2006
+### 2005-2006 (confirmed)
 
-?
+Phantom Tollbooth
+<!-- wayback: https://web.archive.org/web/20060523014005/http://www.sphsdrama.com:80/top_springPlay.html -->
 
 RNR XVII ([program](https://www.flickr.com/photos/techmsg/35196547792/in/album-72157681827771632/))
 
-?
+Beauty and the Beast ([shirt](https://www.flickr.com/photos/techmsg/34517598264/in/album-72157682539235811/))
+<!-- wayback: https://web.archive.org/web/20060523014652/http://www.sphsdrama.com:80/fallMusical/top_fallMusical.html -->
 
 ### 2004-2005
 
-?
+? <!-- 2nd musical per kg, which is why LTWW was in January -->
 
 RNR XVI ([program](https://www.flickr.com/photos/techmsg/34975843580/in/album-72157681827771632/), [shirt](https://www.flickr.com/photos/techmsg/34973503320/in/album-72157682539235811/))
 
-The Lion, The Witch, and the Wardrobe ([shirt](https://www.flickr.com/photos/techmsg/35321114886/in/album-72157682539235811/) Jan '05, maybe SPMS -- January seems odd)
+The Lion, The Witch, and the Wardrobe ([shirt](https://www.flickr.com/photos/techmsg/35321114886/in/album-72157682539235811/))
+<!-- kg, dated shirt -->
 
-?
+Starmites
+<!-- 2003-2007 per Maddie, 2004 per WaPo, fall 2004 per kg, 2007 per Kat -->
+<!-- WaPo: http://www.washingtonpost.com/wp-dyn/content/article/2005/09/26/AR2005092601576.html -->
  
 ### 2003-2004 (confirmed)
 
 Curious Savage ([shirt](https://www.flickr.com/photos/techmsg/35230796641/in/album-72157682539235811/))
+<!-- cached AACPS theater calendar, Google "curious savage" sphs -->
 
 RNR XV ([program](https://www.flickr.com/photos/techmsg/35232960291/in/album-72157681827771632/), [shirt](https://www.flickr.com/photos/techmsg/34517663654/in/album-72157682539235811/))
 
 Footloose
+<!-- cached AACPS theater calendar, Google "curious savage" sphs -->
  
-### 2002-2003
+### 2002-2003 (confirmed)
 
-Phantom Tollbooth (Kat)
-
-You Can't Take It With You (ek)
+You Can't Take It With You
+<!-- cv: http://www.pages.drexel.edu/~sjm38/resume.htm -->
 
 RNR XIV ([program](https://www.flickr.com/photos/techmsg/34975841870/in/album-72157681827771632/))
 
-Into the Woods (Baltimore Sun)
+Into the Woods
+<!-- sun: http://articles.baltimoresun.com/2002-11-07/news/0211070114_1_severna-park-high-jamie-boyle-concert -->
 
 ### 2001-2002
 
 The Odd Couple (Female version) (ek)
+<!-- CV: http://www.pages.drexel.edu/~sjm38/resume.htm -->
 
 RNR XIII ([program](https://www.flickr.com/photos/techmsg/35362863395/in/album-72157681827771632/))
 
@@ -201,6 +224,7 @@ Romeo & Juliet ([program](https://www.flickr.com/photos/techmsg/35122992796/in/a
 RNR X ([program](https://www.flickr.com/photos/techmsg/35232958221/in/album-72157681827771632/), [shirt](https://www.flickr.com/photos/techmsg/35194282982/in/album-72157682539235811/))
 
 Bye Bye Birdie ([recording](https://www.youtube.com/watch?v=7jUHwmesdSg), [shirt](https://www.flickr.com/photos/techmsg/35360587915/in/album-72157682539235811/))
+<!-- Capital: https://www.newspapers.com/newspage/43235972/ -->
 
 ### 1997-1998 (confirmed)
 
@@ -209,6 +233,7 @@ Alice in Wonderland ([shirt](https://www.flickr.com/photos/techmsg/34973543310/i
 RNR IX ([recording](https://www.youtube.com/watch?v=oQnjpxX45K0), [program](https://www.flickr.com/photos/techmsg/34975842440/in/album-72157681827771632/), [shirt](https://www.flickr.com/photos/techmsg/35194298242/in/album-72157682539235811/))
 
 Grease ([recording](https://www.youtube.com/watch?v=yNPl0W5RpYM), [shirt](https://www.flickr.com/photos/techmsg/34550157064/))
+<!-- Capital: https://www.newspapers.com/newspage/39824615/ -->
  
 ### 1996-1997 (confirmed)
 
@@ -275,18 +300,15 @@ RNR (the original)
 ?
 
 ## Unsorted
- 
-Starmites (2003-2007 per Maddie, 2004 per web reference, 2007 per Kat)
 
 Once Upon a Mattress ([shirt](https://www.flickr.com/photos/techmsg/34550578143/in/album-72157682539235811/), 2003-2007 per Maddie)
+<!-- maybe SPMS 3/98 per CV: http://www.pages.drexel.edu/~sjm38/resume.htm -->
+
+The Odd Couple (spring 2007 or spring 2008 per ck)
+<!-- RNR 18-20 era, per https://www.colleen-kerrigan.com/resume -->
 
 Romeo & Juliet (also 2000-2001 per KM?)
 
-Arsenic and Old Lace ('95-96?)
-
 ## Acknowledgements
 
-It took a fair bit of time and effort to track all this down. Special thanks to Andy Webber, Brittany Robinson, Chris Doyle, Chris Hall, Chris McDaniel, Claudia Frye, Colleen Tawes, Eileen Keck, Eric Landgraf, Evan Rockenbauch, Jenn Nicolosi, Kat Heisler, Katie Hughes, Katie Wolfe, Kyle Murphy, Maddy Liccione, Matt Heim, Matt Vahlberg, Norah Aljunaidi, Steve Albert, and William Weatherford their help. Collective memory is an impressive beast (and so is [Jenn's archive](https://www.flickr.com/photos/techmsg/34977939090/))!
-
-
-
+It took a fair bit of time and effort to track all this down. Special thanks to Andy Webber, Brittany Robinson, Chris Doyle, Chris Hall, Chris McDaniel, Claudia Frye, Colleen Tawes, Eileen Keck, Eric Landgraf, Evan Rockenbauch, Hannah Moore, Jenn Nicolosi, Kat Heisler, Kate Gahs, Katie Hughes, Katie Wolfe, Kyle Murphy, Maddy Liccione, Matt Heim, Matt Vahlberg, Norah Aljunaidi, Steve Albert, and William Weatherford their help. Collective memory is an impressive beast (and so is [Jenn's archive](https://www.flickr.com/photos/techmsg/34977939090/))!
