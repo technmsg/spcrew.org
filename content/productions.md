@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: productions -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2017-06-25T07:30:00-05:00 -->
+<!-- updated: 2017-06-28T07:30:00-05:00 -->
 <!-- summary: Past productions and events that SPHS tech crew have worked on, including galleries of show shirts, programs, and other memorabilia. -->
 
 # Productions
@@ -11,7 +11,7 @@ A list of productions and events that the SPHS tech crew has supported over the 
 
 In addition to these, we routinely support the following school groups at Severna Park High School: [band, chorus, and orchestra](http://www.sphsmusic.org) concerts, Dance Company rehearsals and recitals, evening high school graduation, [National Honor Society](https://www.nhs.us/) inductions, [One Act Plays](http://www.sphsdrama.com/one-act-plays.html), prom fashion show, S Factor, Sci-Fi movie nights, senior awards ceremony, [Severna Park Stage Company](http://www.sphsdrama.com/), [SP Cares](http://www.sphsdrama.com/severna-park-cares.html), [Tri-M](https://nafme.org/programs/tri-m-music-honor-society/), Talon Show, among others.
 
-We hope to consult the school's yearbook archive to fill in the remaining gaps. If you can help us with photographs of programs or show shirts, please [contact us](contact.html)!
+We hope to consult the school's yearbook archive in the fall to fill in the remaining gaps. If you can help us with photographs of programs or show shirts, please [contact us](contact.html)!
 
 ## Galleries
 
@@ -26,7 +26,7 @@ Shows are listed in reverse chronological order within each school year, i.e. sp
 
 ### 2017-2018 (announced)
 
-RNR XXIV
+RNR XXIX
 
 Oklahoma
 
@@ -130,19 +130,22 @@ The Sound of Music ([shirt](https://www.flickr.com/photos/techmsg/35225617522/))
 <!-- wayback: https://web.archive.org/web/20090106125140/http://www.sphsdrama.com/fallMusical/top_fallMusical.html -->
 <!-- wayback: https://web.archive.org/web/20101120155101/http://cappies.com/bal/shows.php -->
  
-### 2007-2008
+### 2007-2008 (confirmed)
 
-?
+Dracula
+<!-- ck -->
 
 RNR XIX ([photos](https://www.flickr.com/photos/techmsg/sets/72157603980885611), [videos](https://www.youtube.com/playlist?list=PLBm3S-aCMv3T5gIZk43snxKF8TzVoplLG), [ticket](https://www.flickr.com/photos/techmsg/34549502144/))
 
 Battle of the Bands ([photos](https://www.flickr.com/photos/techmsg/sets/72157603342869556))
 
-Pirates of Penzance (Kat)
+Pirates of Penzance
+<!-- Kat, ck -->
 
-### 2006-2007
+### 2006-2007 (confirmed)
 
-?
+The Odd Couple
+<!-- ck: https://www.colleen-kerrigan.com/resume -->
 
 RNR XVIII ([videos](https://www.youtube.com/playlist?list=PLBm3S-aCMv3SMrvSTV1vVEen2DeRWVnsh), [program](https://www.flickr.com/photos/techmsg/34975843170/in/album-72157681827771632/), [shirt](https://www.flickr.com/photos/techmsg/35194162922/in/album-72157682539235811/))
 
@@ -194,24 +197,27 @@ Into the Woods
 
 ### 2001-2002
 
-The Odd Couple (Female version) (ek)
-<!-- CV: http://www.pages.drexel.edu/~sjm38/resume.htm -->
+?
+<!-- The Odd Couple (Female version) -->
+<!-- ek 5/2002: http://www.pages.drexel.edu/~sjm38/resume.htm -->
 
 RNR XIII ([program](https://www.flickr.com/photos/techmsg/35362863395/in/album-72157681827771632/))
 
-?
+(no fall musical)
 
-### 2000-2001
+### 2000-2001 (confirmed)
 
-?
+Charlie and the Chocolate Factory
+<!-- dk: farewell show -->
 
 RNR XII
 
 You're A Good Man, Charlie Brown ([program](https://www.flickr.com/photos/techmsg/35122992576/in/album-72157681827771632/))
 
-### 1999-2000
+### 1999-2000 (confirmed)
 
-The Odd Couple (Female version) (kw)
+The Odd Couple (Female version)
+<!-- kw, dk -->
 
 RNR XI
 
@@ -303,12 +309,38 @@ RNR (the original)
 
 Once Upon a Mattress ([shirt](https://www.flickr.com/photos/techmsg/34550578143/in/album-72157682539235811/), 2003-2007 per Maddie)
 <!-- maybe SPMS 3/98 per CV: http://www.pages.drexel.edu/~sjm38/resume.htm -->
-
-The Odd Couple (spring 2007 or spring 2008 per ck)
-<!-- RNR 18-20 era, per https://www.colleen-kerrigan.com/resume -->
-
-Romeo & Juliet (also 2000-2001 per KM?)
+<!-- maybe CTA 1/10 per web: https://patch.com/maryland/severnapark/ev--once-upon-a-mattress-presented-by-the-childrens-t73a681514c, http://www.severnaparkvoice.com/arts-entertainment/ctas-mattress-no-way-shy-fun, http://articles.baltimoresun.com/2010-12-24/news/bs-ar-johnson-once-upon-mattress-20101224_1_cassidy-hamilton-queen-aggravain-prince-dauntless -->
 
 ## Acknowledgements
 
-It took a fair bit of time and effort to track all this down. Special thanks to Andy Webber, Brittany Robinson, Chris Doyle, Chris Hall, Chris McDaniel, Claudia Frye, Colleen Tawes, Eileen Keck, Eric Landgraf, Evan Rockenbauch, Hannah Moore, Jenn Nicolosi, Kat Heisler, Kate Gahs, Katie Hughes, Katie Wolfe, Kyle Murphy, Maddy Liccione, Matt Heim, Matt Vahlberg, Norah Aljunaidi, Steve Albert, and William Weatherford their help. Collective memory is an impressive beast (and so is [Jenn's archive](https://www.flickr.com/photos/techmsg/34977939090/))!
+It took a fair bit of time and effort to track all this down. Special thanks to all of the following for their help.
+
+Andy Webber,
+Brittany Robinson,
+Chris Doyle,
+Chris Hall,
+Chris McDaniel,
+Claudia Frye,
+[Colleen Kerrigan](https://www.colleen-kerrigan.com),
+Colleen Tawes,
+Doug Kotula,
+Eileen Keck,
+Eric Landgraf,
+Evan Rockenbauch,
+Hannah Moore,
+Jenn Nicolosi,
+Kat Heisler,
+Kate Gahs,
+Katie Hughes,
+Katie Wolfe,
+Kyle Murphy,
+Maddy Liccione,
+Matt Heim,
+Matt Vahlberg,
+Norah Aljunaidi,
+Steve Albert,
+William Weatherford
+
+Collective memory is an impressive beast (and so is [Jenn's archive](https://www.flickr.com/photos/techmsg/34977939090/))!
+
+<!-- EOF -->
