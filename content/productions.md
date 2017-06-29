@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: productions -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2017-06-28T07:30:00-05:00 -->
+<!-- updated: 2017-06-29T09:30:00-05:00 -->
 <!-- summary: Past productions and events that SPHS tech crew have worked on, including galleries of show shirts, programs, and other memorabilia. -->
 
 # Productions
@@ -195,11 +195,10 @@ RNR XIV ([program](https://www.flickr.com/photos/techmsg/34975841870/in/album-72
 Into the Woods
 <!-- sun: http://articles.baltimoresun.com/2002-11-07/news/0211070114_1_severna-park-high-jamie-boyle-concert -->
 
-### 2001-2002
+### 2001-2002 (confirmed)
 
-?
-<!-- The Odd Couple (Female version) -->
-<!-- ek 5/2002: http://www.pages.drexel.edu/~sjm38/resume.htm -->
+Working (canceled)
+<!-- ek -->
 
 RNR XIII ([program](https://www.flickr.com/photos/techmsg/35362863395/in/album-72157681827771632/))
 

@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: advisors -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2017-06-16T22:30:00-05:00 -->
+<!-- updated: 2017-06-29T09:30:00-05:00 -->
 <!-- summary: Meet the advisors of SPHS tech crew. -->
 
 # Advisors
@@ -11,7 +11,7 @@ Meet the advisors of SPHS Tech Crew.
 
 ## Present
 
-2016-present: Alex Moundalexis, Jenn Nicolosi
+2016-present: [Alex Moundalexis](https://www.linkedin.com/in/moundalexis/), [Jenn Nicolosi](https://www.linkedin.com/in/jennifer-nicolosi-b5699a22)
 
 Picture and profile to come, perhaps. Mini-CVs, maybe.
 
