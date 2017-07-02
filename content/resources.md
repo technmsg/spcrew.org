@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: resources,manuals -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2017-06-25T21:00:00-05:00 -->
+<!-- updated: 2017-07-02T10:00:00-05:00 -->
 <!-- summary: The secret stash of guides, manuals, and other resources that enable the SPHS tech crew to do what we do. -->
 
 # Resources
@@ -103,6 +103,20 @@ Let us know if a link is broken; we have most of the PDFs archived in Google Dri
 
 ## Sound
 
+### Alesis
+
+M-EQ 230
+
+* Manual ([PDF](https://vault.spcrew.org/alesis/meq230_manual.pdf))
+
+Quadraverb
+
+* Manual ([PDF](https://vault.spcrew.org/alesis/QuadraVerb_Ref_Man_v1.0.pdf))
+
+Quadraverb 2
+
+* Reference Manual ([PDF](https://vault.spcrew.org/alesis/quadraverb2_manual.pdf))
+
 ### Allen & Heath
 
 [GLD](http://www.allen-heath.com/key-series/gld-series/)
@@ -113,6 +127,13 @@ Let us know if a link is broken; we have most of the PDFs archived in Google Dri
 * GLD-AR2412 User Guide ([PDF](http://www.allen-heath.com/media/AR2412-Guide-AP8596_2.pdf))
 * AR84 User Guide ([PDF](http://www.allen-heath.com/media/AR84-Guide-AP8720_2.pdf))
 
+### Ashly
+
+[LX-308B](http://ashly.com/products/analog-mixers) Stereo Line Mixer
+
+* Data Sheet ([PDF](http://ashly.com/wp-content/uploads/2015/08/lx-308b.pdf))
+* Manual ([PDF](http://ashly.com/wp-content/uploads/2015/08/lx-308b-r06.pdf))
+
 ### Avid
 
 [VENUE SC48](http://www.avid.com/products/venue-sc48)
@@ -120,6 +141,22 @@ Let us know if a link is broken; we have most of the PDFs archived in Google Dri
 * VENUE SC48 Guide ([PDF](http://akmedia.digidesign.com/support/docs/VENUE_SC48_Guide_75438.pdf))
 * Frequently Asked Questions ([online](http://avid.force.com/pkb/articles/faq/VENUE-FAQs))
 * Datasheet ([PDF](http://www.avid.com/~/media/avid/files/support-pdf/resources-pdf/sc48_ds_a4_2013_03_26.pdf))
+
+### Behringer
+
+[GEQ3102](http://www.music-group.com/Categories/Behringer/Signal-Processors/Equalizers/GEQ3102/p/P0088) Ultra-Graph Pro
+
+* User's Manual ([PDF](https://vault.spcrew.org/behringer/1620-GEQ3102Manual.pdf))
+
+[MDX2100](http://www.music-group.com/Categories/Behringer/Signal-Processors/Compressors-Limiters/MDX2100/p/P0001) Composer
+
+* User Manual ([PDF](https://www.manualslib.com/download/1013218/Behringer-Composer-Mdx-2100.html))
+
+### Crown
+
+[DSi 1000](http://www.crownaudio.com/en/products/dsi-1000) Two-channel, 475W @ 4Ω Power Amplifier
+
+* Owner's Manual ([PDF](https://3e7777c294b9bcaa5486-bc95634e606bab3d0a267a5a7901c44d.ssl.cf2.rackcdn.com/product_documents/documents/1973_1407785170/139677-7_08-13_DSi_multilingual_operation_original.pdf))
 
 ### d&b audiotechnik
 
@@ -144,7 +181,94 @@ Let us know if a link is broken; we have most of the PDFs archived in Google Dri
 * Q1 Manual 2.3 ([PDF](http://www.dbaudio.com/en/support/downloads/category/download/2732.html))
 * The Q-Series brochure ([PDF](http://www.dbaudio.com/en/support/downloads/category/download/4300.html))
 
+### Denon
+
+[BN-500BD](http://denonpro.com/products/view/dn-500bd) Blu-Ray, DVD and CD Player
+
+* User Guide ([PDF](http://e345eb35efcb99754b1f-525d2f2124a3483dfbd3f17c87329990.r36.cf2.rackcdn.com//1453/documents/DN-500BD%20-%20User%20Guide%20-%20v1.4.pdf))
+
+### DOD
+
+[SR460H](http://dod.com/en/products/sr460h) headphone amplifier
+
+* Owner's Manual ([PDF](https://3e7777c294b9bcaa5486-bc95634e606bab3d0a267a5a7901c44d.ssl.cf2.rackcdn.com/product_documents/documents/1239_1344965209/SR460Manual_original.pdf))
+
+### JBL
+
+[CSM 28](https://jblcommercialproducts.com/en/products/csm-28) mixer
+
+* Owner's Manual ([PDF](https://3e7777c294b9bcaa5486-bc95634e606bab3d0a267a5a7901c44d.ssl.cf2.rackcdn.com/product_documents/documents/1843_1393453559/CSM_14___28_5040964_EN_140124_original.pdf))
+
+[JRX212](http://www.jblpro.com/www/products/portable-market/jrx200-series) unpowered monitor
+
+* Spec Sheet ([PDF](http://www.jblpro.com/ProductAttachments/JRX212_specsheet_v3.pdf))
+
+### Mackie
+
+FR M-800 amplifier
+
+* Owner's Manual ([PDF](https://supportloudtech.netx.net/file/asset/9804/original/attachment))
+
+### Monster Power
+
+PRO 3500
+
+* Owner's Manual ([PDF](https://vault.spcrew.org/monster/pro_3500.pdf))
+
+### QSC
+
+[CX168](https://www.qsc.com/systems/products/power-amplifiers/commercial-amplifiers-dataport/cx-series-8-ch/cx168/) 8-Channel Low-Z Power Amplifier
+
+* Spec Sheet ([PDF](https://www.qsc.com/resource-files/productresources/amp/cx/cx_series_8-ch/q_amp_cx_8ch_specs.pdf))
+* User Guide ([PDF](https://www.qsc.com/resource-files/productresources/amp/cx/cx_series_8-ch/cx168/q_amp_cx_168_usermanual.pdf))
+
+[CX404](https://www.qsc.com/systems/products/power-amplifiers/commercial-amplifiers-dataport/cx-series-4-ch/cx404/) 4-Channel Low-Z Power Amplifier
+
+* Spec Sheet ([PDF](https://www.qsc.com/resource-files/productresources/amp/cx/cx_series_4-ch/q_amp_cx_4ch_specs.pdf))
+* User Guide ([PDF](https://www.qsc.com/resource-files/productresources/amp/cx/q_amp_cx_userguide.pdf))
+
+[GX5](https://www.qsc.com/live-sound/products/power-amplifiers/gx-series/gx5/) Power Amplifier
+
+* Spec Sheet ([PDF](https://www.qsc.com/resource-files/productresources/amp/gx/q_amp_gx_specs_en.pdf))
+* User Manual ([PDF](https://www.qsc.com/resource-files/productresources/amp/gx/q_amp_gx_usermanual.pdf))
+
+[GX7](https://www.qsc.com/live-sound/products/power-amplifiers/gx-series/gx7/) Power Amplifier
+
+* See QSC GX5
+
+### Rane
+
+RE27 Real Time Analyzer with Pink Noise Generator 
+
+* Manual ([PDF](http://www.rane.com/pdf/old/re27man.pdf))
+
+### Renkus-Heinz
+
+[CFX41](http://www.renkus-heinz.com/cfx41) Four-Inch Coaxial Two-Way Loudspeaker
+
+* Data Sheet ([PDF](http://www.renkus-heinz.com/upload/cfx41-datasheet-1.pdf))
+* Brochure ([PDF](http://www.renkus-heinz.com/upload/cfcfx-series-brochure-1.pdf))
+
+### Sabine
+
+SW70-H13 handheld transmitter
+
+* Data Sheet ([PDF](http://www.fullcompass.com/common/files/16306-DataSheet.pdf))
+
+SW72-NDR dual receiver
+
+* User Manual ([PDF](https://www.manualslib.com/download/403053/Sabine-Sw71-Ndr.html))
+
+SWA6SS antenna distribution amplifier
+
+* Operating Guide ([PDF](http://www.av-iq.com/avcat/images/documents/pdfs/swa6ss_operating%20guide.pdf))
+
 ### Shure
+
+[SRH 240A](https://www.shure.com/americas/products/headphones/srh240a-professional-quality-headphones) headphones
+
+* Specification Sheet ([PDF](https://www.shure.com/specification-sheets/Spec_Sheet_SRH240A.pdf))
+* User Guide ([PDF](http://cdn.shure.com/user_guide/upload/304/pdf_srh240a_headphones_ug.pdf))
 
 [ULX-D](http://www.shure.com/americas/products/wireless-systems/ulxd-systems) wireless
 
@@ -152,6 +276,35 @@ Let us know if a link is broken; we have most of the PDFs archived in Google Dri
 * ULX-D Dual Wireless User Guide ([web](http://pubs.shure.com/guide/ULXD-DQ/en-US), [PDF](http://pubs.shure.com/guide/ULXD-DQ/en-US.pdf))
 * SB900A Battery User Guide ([PDF](http://www.shure.com/user-guides/sb900a-user-guide.pdf))
 * SBC800 Battery Charger User Guide ([PDF](http://www.shure.com/user-guides/SBC800_User_Guide.pdf))
+
+### Sony
+
+[CDP-CE315](https://esupport.sony.com/US/p/model-home.pl?mdl=CDPCE315) 5 Disc CD Player
+
+* Operating Instructions ([PDF](https://docs.sony.com/release/CDPCE315.pdf))
+
+### TASCAM
+
+[CD-200IL](http://tascam.com/product/cd-200il/) Professional CD player with 30-Pin & Lightning iPod dock
+
+* Tech Docs ([PDF](http://tascam.com/content/downloads/products/814/tas_cd200il_techdoc.pdf))
+* Spec Sheeet ([PDF](http://tascam.com/content/downloads/products/814/e_cd-200il_spec.pdf))
+* Owner's Manual ([PDF](http://tascam.com/content/downloads/products/814/e_cd-200il_om_vb.pdf))
+
+[SS-CDR2000](http://tascam.com/product/ss-cdr200/) solid state recorder
+
+* Tech Docs ([PDF](http://tascam.com/content/downloads/products/712/tas_sscdr200_techdoc.pdf))
+* Tested Media List ([PDF](http://tascam.com/content/downloads/products/712/ss-cdr200_r200_r100_tested%20media_list_20160914.pdf))
+* Owner's Manual ([PDF](http://tascam.com/content/downloads/products/712/e_ss-cdr200_srs_om_ve.pdf))
+* Owners Manual Addendum ([PDF](http://tascam.com/content/downloads/products/712/je_ss-cdr200_ins-v120_va.pdf))
+
+### TOA
+
+[A-712](http://www.toaelectronics.com/products/Amplifiers/700-series-integrated-mixer-amplifiers) integrated mixer/amplifier
+
+* Spec Sheet ([PDF](http://www.toaelectronics.com/media/a712_sa1e.pdf))
+* Manual ([PDF](http://www.toaelectronics.com/media/a706_mt1e.pdf))
+* Brochure ([PDF](http://www.toaelectronics.com/media/700_Series_spec.pdf))
 
 ### Yamaha
 
@@ -163,6 +316,17 @@ Let us know if a link is broken; we have most of the PDFs archived in Google Dri
 * PW800 Power Supply Manual ([PDF](http://download.yamaha.com/api/asset/file?language=en&site=countrysite-master.prod.wsys.yamaha.com&asset_id=7486))
 
 ## Misc
+
+### Furman
+
+PL-8 15A Power Conditioner with Lights, Voltmeter
+
+* Owners Manual ([PDF](https://www.manualslib.com/download/246778/Furman-Pl-8.html))
+
+[PL-PRO C](http://www.furmanpower.com/product/20a-power-conditioner-lights-voltmeter-PL-PROC) 20A Power Conditioner with Lights, Voltmeter
+
+* Datasheet ([PDF](http://resources.corebrands.com/products/PL-PROC/pdf_PL-PROC_datasheet.pdf))
+* Manual ([PDF](http://resources.corebrands.com/products/PL-PROC/pdf_PL-PROC_manual.pdf))
 
 ### RTS
 
@@ -180,7 +344,67 @@ Let us know if a link is broken; we have most of the PDFs archived in Google Dri
    * Supplemental Information ([PDF](http://www.rtsintercoms.com/jp/rts/file?i=97657&lg=eng))
    * Datasheet ([PDF](http://www.rtsintercoms.com/jp/rts/file?i=97607&lg=eng))
 
+### Technical Projects
+
+Our original Technical Projects intercom units have long been discontinued, but [Pro Intercom](http://prointercomllc.com/) units are compatible and we do have a handful of those units as well. In addition many [Clear-Com](http://www.clearcom.com/product/partyline) partyline units are compatible; refer to conversion chart ([PDF](http://www.clearcom.com/upload/download/ProductionIntercomCrossReferenceGuide.pdf)) for details.
+
+[BP1](http://prointercomllc.com/category/belt-packs/bp1-beltpack/) belt pack
+
+* Parts List ([Excel](http://prointercomllc.com/wp-content/uploads/2016/10/BP1-PARTS-LIST-COMPLETE.xlsx))
+* Technical Information ([PDF](http://prointercomllc.com/wp-content/uploads/2016/06/Cut_BP1_PRO.pdf))
+
+[HS-1R](https://www.performanceaudio.com/item/pro-intercom-hs-1r/26745/) headset/handset rack-mount station
+
+[RSM-1](https://www.performanceaudio.com/item/pro-intercom-rsm-1/26727/) remote sub-master station 
+
+PS-1A three chanel power supply
+
 ## Things We Don't Control
+
+### Cisco
+
+[SG300-10PP](http://www.cisco.com/c/en/us/support/switches/sg300-10pp-10-port-gigabit-poe-plus-managed-switch/model.html) 10-port Gigabit PoE+ Managed Switch
+
+[SG200-26P](http://www.cisco.com/c/en/us/support/switches/sg200-26-26-port-gigabit-smart-switch/model.html) 26-port Gigabit Smart Switch
+
+[SG300-28PP](http://www.cisco.com/c/en/us/support/switches/sg300-28pp-28-port-gigabit-poe-plus-managed-switch/model.html) 28-port Gigabit PoE+ Managed Switch
+
+[SF302-08PP](http://www.cisco.com/c/en/us/support/switches/sf302-08pp-8-port-10-100-poe-plus-managed-switch/model.html) 8-port 10 100 PoE+ Managed Switch
+
+### Crestron
+
+[DM-MD8X8](https://www.crestron.com/Products/Model/DM-MD8X8) 8x8 DigitalMedia™ Switcher
+
+* Spec Sheet ([PDF](https://www.crestron.com/downloads/pdf/spec_sheets/commercial_and_residential/dm-md8x8.pdf))
+* Manual ([PDF](https://www.crestron.com/downloads/pdf/product_manuals//og_dm-md8x8_16x16_32x32.pdf))
+* Reference Guide ([PDF](https://www.crestron.com/downloads/pdf/product_misc/dg_ip-considerations-guide-it-professional.pdf))
+
+[PRO3](https://www.crestron.com/products/model/PRO3) 3-Series Control System®
+
+* Spec Sheet ([PDF](https://www.crestron.com/downloads/pdf/spec_sheets/commercial_and_residential/pro3.pdf))
+* Supplemental Guide ([PDF](https://www.crestron.com/downloads/pdf/product_misc/sg_pro3.pdf))
+* Reference Guide ([PDF](https://www.crestron.com/downloads/pdf/product_misc/rg_3-series.pdf))
+
+### Epson
+
+[H608A](https://epson.com/For-Work/Projectors/Large-Venue/PowerLite-Pro-Z11005NL-XGA-3LCD-Projector-without-Lens/p/V11H606820) PowerLite Pro Z11005NL XGA 3LCD Projector without Lens
+
+* Quick Reference ([PDF](https://files.support.epson.com/docid/cpd4/cpd41463.pdf))
+* User's Guide ([PDF](https://files.support.epson.com/docid/cpd4/cpd40856.pdf))
+
+### ETC
+
+[Paradigm Architectural Control Processor](https://www.etcconnect.com/Products/Architectural-Systems/Paradigm/Control-and-Dimming/Architectural-Controls/Features.aspx)
+
+[Show Control Gateway](https://www.etcconnect.com/Products/Networking/Specialty/Net3-Show-Control-Gateway/Features.aspx)
+
+### Furman
+
+[CN-1800S](http://www.furmancontractor.com/cn-1800s.php) 15A Sequencer
+
+* Quick Start Guide ([PDF](http://www.furmancontractor.com/pdf/manual/Furman_CN18-2400_QuickStartGuide_revC.pdf))
+* Datasheet ([PDF](http://www.furmancontractor.com/pdf/datasheet/cn-18-2400s_datasheet.pdf))
+* Manual ([PDF](http://www.furmancontractor.com/pdf/manual/Furman_CN-1800S_Manual_revA.pdf))
 
 ### Symetrix
 
@@ -193,5 +417,13 @@ Let us know if a link is broken; we have most of the PDFs archived in Google Dri
 
 * Data Sheet ([PDF](http://www.symetrix.co/downloads/xout-12-data-sheet/))
 * Quick Start Guide ([PDF](http://www.symetrix.co/downloads/xin12-and-xout-12-quick-start-guide/))
+
+### Williams Sound
+
+[PPA T45](https://www.williamssound.com/catalog/ppa-t45) Personal PA FM Base Station Transmitter
+
+* Introduction ([YouTube](https://www.youtube.com/embed/lm8wgrfHE0I?rel=0))
+* User Manual ([PDF](https://www.williamssound.com/resources/products/web/ppa/ppa_t45_manual_en.pdf))
+* Specifications ([PDF](https://www.williamssound.com/resources/products/web/ppa/ppa_t45_specs_en.pdf))
 
 <!-- EOF -->
