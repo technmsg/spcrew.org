@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: productions -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2017-07-03T11:00:00-05:00 -->
+<!-- updated: 2017-07-06T11:00:00-05:00 -->
 <!-- summary: Past productions and events that SPHS tech crew have worked on, including galleries of show shirts, programs, and other memorabilia. -->
 
 # Productions
@@ -302,7 +302,7 @@ Arsenic and Old Lace
 
 RNR IV ([program](https://www.flickr.com/photos/techmsg/35196547222/in/album-72157681827771632/))
 
-The Miracle Worker
+The Miracle Worker ([poster](https://www.flickr.com/photos/techmsg/35758293185/in/album-72157682248191594/))
 <!-- sa -->
 
 ### 1991-1992 (unconfirmed)
