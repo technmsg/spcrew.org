@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: productions -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2017-07-06T11:00:00-05:00 -->
+<!-- updated: 2017-08-10T12:00:00-05:00 -->
 <!-- summary: Past productions and events that SPHS tech crew have worked on, including galleries of show shirts, programs, and other memorabilia. -->
 
 # Productions
@@ -94,7 +94,7 @@ The Bully Plays
 
 RNR XXIV ([photos](https://www.flickr.com/photos/techmsg/sets/72157663881333980), [videos](https://www.youtube.com/playlist?list=PLBm3S-aCMv3SU43Ay1xSpni4aNPKRBEKn), [program](https://www.flickr.com/photos/techmsg/35232961521/in/album-72157681827771632/))
 
-Les Miserables ([program](https://www.flickr.com/photos/techmsg/34975845750/in/album-72157681827771632/))
+Les Misérables ([photos](https://www.flickr.com/photos/techmsg/albums/72157683778784051), [program](https://www.flickr.com/photos/techmsg/34975845750/in/album-72157681827771632/))
 <!-- patch: https://patch.com/maryland/severnapark/amp/13816136/les-miserable-severna-park-stage-company -->
  
 ### 2011-2012
@@ -102,7 +102,7 @@ Les Miserables ([program](https://www.flickr.com/photos/techmsg/34975845750/in/a
 Our Town
 <!-- patch: https://patch.com/maryland/severnapark/ev--our-town-presented-by-sphs-stage-company -->
 
-RNR XXIII ([videos](https://www.youtube.com/playlist?list=PLBm3S-aCMv3S7qqfFkRD_MTIKfDXAH8iL), [program](https://www.flickr.com/photos/techmsg/35196548762/in/album-72157681827771632/))
+RNR XXIII ([photos](https://www.flickr.com/photos/techmsg/sets/72157686034750555), [videos](https://www.youtube.com/playlist?list=PLBm3S-aCMv3S7qqfFkRD_MTIKfDXAH8iL), [program](https://www.flickr.com/photos/techmsg/35196548762/in/album-72157681827771632/))
 
 Fiddler on the Roof ([program](https://www.flickr.com/photos/techmsg/35362862345/in/album-72157681827771632/))
 <!-- patch: https://patch.com/maryland/severnapark/severna-park-high-school-performs-fiddler-on-the-roof46d2310ffb -->
@@ -258,7 +258,7 @@ Alice in Wonderland ([shirt](https://www.flickr.com/photos/techmsg/34973543310/i
 
 RNR IX ([recording](https://www.youtube.com/watch?v=oQnjpxX45K0), [program](https://www.flickr.com/photos/techmsg/34975842440/in/album-72157681827771632/), [shirt](https://www.flickr.com/photos/techmsg/35194298242/in/album-72157682539235811/))
 
-Grease ([recording](https://www.youtube.com/watch?v=yNPl0W5RpYM), [shirt](https://www.flickr.com/photos/techmsg/34550157064/))
+Grease ([recording](https://www.youtube.com/watch?v=yNPl0W5RpYM), [shirt](https://www.flickr.com/photos/techmsg/36483966475/))
 <!-- Capital: https://www.newspapers.com/newspage/39824615/ -->
  
 ### 1996-1997
@@ -275,7 +275,7 @@ The Crucible ([shirt](https://www.flickr.com/photos/techmsg/34517673434/in/album
 
 RNR VII
 
-Joseph the the Amazing Technicolor Dreamcoat ([shirt](https://www.flickr.com/photos/techmsg/35005953820/))
+Joseph the the Amazing Technicolor Dreamcoat ([shirt](https://www.flickr.com/photos/techmsg/36483756225/))
  
 ### 1994-1995 (unconfirmed)
 

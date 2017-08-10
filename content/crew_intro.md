@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: students,intro -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2017-06-06T22:30:00-05:00 -->
+<!-- updated: 2017-07-13T16:50:00-05:00 -->
 <!-- summary: An introduction to SPHS tech crew for new and returning students. -->
 
 # Introduction to Crew
@@ -27,7 +27,7 @@ There's a bunch of people you'll be getting to know over the school year.
 
 In addition, each production will have its own staff.
 
-* Director - Adult staff member who oversees the production. For larger shows, there might be separate directors for vocals, orchestra/bad, tech, etc. 
+* Director - Adult staff member who oversees the production. For larger shows, there might be separate directors for vocals, orchestra/band, tech, etc.
 * Student Directors - Student counterparts to the directors.
 
 A brief word about chain of command:
@@ -101,7 +101,7 @@ If someone yells HOLD, stop what you’re doing. The advisors won’t raise thei
  
 We use tools, equipment, electrical things, and chemicals that can be hazardous. Outside of the auditorium and set shop, possession of these things can result in suspension (e.g. knifes, razors, spray paint). Keep these things within our spaces. Don’t bring tools from home.
  
-We _always_ require long pants (no shorts, skirts, dresses, leggings, or yoga pants) and closed-toed shoes (sandals, heels, flip flops, or bare feet). We will provide work gloves, safety glasses, and other safety gear as necessary. Please make sure you are wearing clothes/shoes that can get dusty, dirty, torn, or covered in paint. Most students end up with several pairs of "crew pants" by the end of a season; how messed up they are becomes a point of pride.
+We _always_ require long pants (no shorts, skirts, dresses, leggings, or yoga pants) and closed-toed shoes (no sandals, heels, flip flops, or bare feet). We will provide work gloves, safety glasses, and other safety gear as necessary. Please make sure you are wearing clothes/shoes that can get dusty, dirty, torn, or covered in paint. Most students end up with several pairs of "crew pants" by the end of a season; how messed up they are becomes a point of pride.
  
 The auditorium catwalks are off-limits without explicit direction and supervision of an adult advisor as well as the proper safety gear. The same goes for the rest of the building; if we aren't working in a particular space, you shouldn't be wandering around.
  
