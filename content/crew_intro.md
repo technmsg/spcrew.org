@@ -53,7 +53,7 @@ Work days are posted in many places:
 * Facebook
 * Slack
  
-Other information along with changes in work days or times will be sent out via Remind 101 and the Facebook Tech Crew Page (POC Casey). Note that these groups are updated annually, so last year's groups aren't likely to be used.
+Other information along with changes in work days or times will be sent out via Remind 101 and the Facebook Tech Crew Page. Note that these groups are updated annually, so last year's groups aren't likely to be used.
  
 ## Eligibility
  
