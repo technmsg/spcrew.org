@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: productions -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2017-08-10T12:00:00-05:00 -->
+<!-- updated: 2017-10-13T12:00:00-05:00 -->
 <!-- summary: Past productions and events that SPHS tech crew have worked on, including galleries of show shirts, programs, and other memorabilia. -->
 
 # Productions
@@ -32,11 +32,11 @@ RNR XXIX
 
 [Hank and My Honky Tonk Heroes](http://www.jasonpetty.com/)
 
-Oklahoma
+Oklahoma (build photos after run)
 
 [Steven Vanhauwaert](http://stevenvanhauwaert.com/)
 
-[Paul McDermand](http://www.paulmcdermand.com/)
+[Paul McDermand](http://www.paulmcdermand.com/) ([photos](https://www.flickr.com/photos/techmsg/shares/VS365G))
 
 ### 2016-2017
 
