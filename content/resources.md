@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: resources,manuals -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2017-07-02T10:00:00-05:00 -->
+<!-- updated: 2017-11-15T10:00:00-05:00 -->
 <!-- summary: The secret stash of guides, manuals, and other resources that enable the SPHS tech crew to do what we do. -->
 
 # Resources
@@ -10,6 +10,18 @@
 Let us know if a link is broken; we have most of the PDFs archived in Google Drive and can provide access that way too.
 
 ## Lighting
+
+### Apollo
+
+[Smart Power™ 200W Power Supply](http://www.apollodesign.net/smart-power-200w-power-supply)
+
+* Feature Sheet ([PDF](http://www.apollodesign.net/media/resources/Smart_Power_Power%20Supply_Feature_Sheet.pdf))
+* Manual ([PDF](http://www.apollodesign.net/media/resources/Smart_Power_Power%20Supply_Manual.pdf))
+
+[Smart Color PRO 10 Scroller](http://www.apollodesign.net/motion-effects/scrollers/smart-color-pro-10/smart-color-pro-10)
+
+* Feature Sheet ([PDF](http://www.apollodesign.net/media/resources/SmartColor_Scroller_MXR2_Feature_Sheet.pdf))
+* Manual ([PDF](http://www.apollodesign.net/media/resources/SmartColor_Pro_Manual.pdf))
 
 ### Canto
 
@@ -154,7 +166,7 @@ Quadraverb 2
 
 ### Crown
 
-[DSi 1000](http://www.crownaudio.com/en/products/dsi-1000) Two-channel, 475W @ 4Ω Power Amplifier
+[DSi 1000](http://www.crownaudio.com/en/products/dsi-1000) Two-channel, 475W @ 4Ω Power Amplifier
 
 * Owner's Manual ([PDF](https://3e7777c294b9bcaa5486-bc95634e606bab3d0a267a5a7901c44d.ssl.cf2.rackcdn.com/product_documents/documents/1973_1407785170/139677-7_08-13_DSi_multilingual_operation_original.pdf))
 
@@ -314,6 +326,14 @@ SWA6SS antenna distribution amplifier
 * M7CL V3 Owner's Manual ([PDF](http://download.yamaha.com/api/asset/file?language=en&site=countrysite-master.prod.wsys.yamaha.com&asset_id=48078))
 * M7CL V3.5 Supplementary Manual ([PDF](http://download.yamaha.com/api/asset/file?language=en&site=countrysite-master.prod.wsys.yamaha.com&asset_id=48080))
 * PW800 Power Supply Manual ([PDF](http://download.yamaha.com/api/asset/file?language=en&site=countrysite-master.prod.wsys.yamaha.com&asset_id=7486))
+
+## Tools
+
+### Crasftman
+
+[Craftsman XSP 12 Gallon 5.5 Peak HP Wet/Dry Vac](https://www.craftsman.com/products/craftsman-xsp-12-gallon-5-5-peak-hp-wet-dry-vac)
+
+* Manual ([PDF](http://c.shld.net/assets/docs/spin_prod_861787912.pdf))
 
 ## Misc
 

@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: productions -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2017-10-13T12:00:00-05:00 -->
+<!-- updated: 2017-11-14T12:00:00-05:00 -->
 <!-- summary: Past productions and events that SPHS tech crew have worked on, including galleries of show shirts, programs, and other memorabilia. -->
 
 # Productions
@@ -24,15 +24,15 @@ We hope to consult the school's yearbook archive in the fall to fill in the rema
 
 Shows are listed in reverse chronological order within each school year, i.e. spring, winter, fall.
 
-### 2017-2018 (announced)
+### 2017-2018
 
-[Side Street Strutters](http://sidestreetstrutters.com/)
+[Side Street Strutters](http://sidestreetstrutters.com/) (announced)
 
-RNR XXIX
+RNR XXIX (announced)
 
-[Hank and My Honky Tonk Heroes](http://www.jasonpetty.com/)
+[Hank and My Honky Tonk Heroes](http://www.jasonpetty.com/) (announced)
 
-Oklahoma (build photos after run)
+Oklahoma ([photos](https://www.flickr.com/photos/techmsg/sets/72157687658590764), [videos](https://www.youtube.com/playlist?list=PLBm3S-aCMv3T_-ixSTJjfvclFRXtkh_KA), [shirt](https://www.flickr.com/photos/techmsg/37703316224/in/album-72157682539235811/), [program](https://www.flickr.com/photos/techmsg/37703316244/in/album-72157681827771632/))
 
 [Steven Vanhauwaert](http://stevenvanhauwaert.com/)
 

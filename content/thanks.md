@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: thanks,kudos -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2017-06-16T22:30:00-05:00 -->
+<!-- updated: 2017-11-15T09:30:00-05:00 -->
 <!-- summary: Special thanks to the following individuals for all their dedication and insight over the years, without which we wouldn't be the crew we are today. -->
 
 # Thanks
@@ -30,6 +30,7 @@ Hunter Reid,
 Kathy Gabriele,
 Kris McCullough,
 Kim Hughes,
+Kyle Eshom,
 Larry Friedman,
 Lori Stokes,
 Lynnley Moore,
@@ -41,6 +42,8 @@ Porter Tawes,
 Randy Hoffman,
 Sam Scalzi,
 Scott Lutrey,
+Scott Metcalfe,
+Sean Urbantke,
 Shanna Hines,
 Tammi Molavi,
 Thomas Sellman,
@@ -50,6 +53,7 @@ Tom McKown
 Organizations too!
  
 [4Wall Entertainment](https://www.4wall.com/),
+AED,
 [Afterglow Lighting](http://www.afterglowlighting.net/),
 [Clement Hardware](http://clementhardware.com/),
 [Electro Sound Systems](http://www.electrosoundsystems.com/),
