@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: thanks,kudos -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2017-11-15T09:30:00-05:00 -->
+<!-- updated: 2018-03-09T10:09:00-05:00 -->
 <!-- summary: Special thanks to the following individuals for all their dedication and insight over the years, without which we wouldn't be the crew we are today. -->
 
 # Thanks
@@ -23,6 +23,7 @@ Doug Kotula,
 Ellen Lutrey,
 Gary Tawes ('82),
 Gordon Clement ('81),
+Jessica Haynie,
 Jim Bowersox,
 Joe Dobson,
 Harry Wicks,
@@ -60,6 +61,7 @@ AED,
 [Falcon Drama Boosters](http://www.sphsdrama.com/boosters.html),
 Gina's Cantina,
 [J.F. Johnson Lumber](http://www.johnsonlumberco.com),
+[Main Light](https://www.mainlight.com/),
 [Patuxent Engineering Group](http://www.patuxentengineering.com/),
 [Spartan Lyrical Society](http://www.spmssings.org/),
 [Universal Builders Supply](http://www.ubs1.com/)
