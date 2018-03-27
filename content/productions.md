@@ -28,7 +28,7 @@ Shows are listed in reverse chronological order within each school year, i.e. sp
 
 [Side Street Strutters](http://sidestreetstrutters.com/) (announced)
 
-RNR XXIX (media after the run completes)
+RNR XXIX ([build](https://www.flickr.com/photos/techmsg/sets/72157689620246732), [show](https://www.flickr.com/photos/techmsg/sets/72157694621733075), and [curated](https://www.flickr.com/photos/techmsg/sets/72157664883356307) photos, [videos](https://www.youtube.com/playlist?list=PLBm3S-aCMv3Q_rb9uuWndO7b_3jIFhwW5), [shirt](https://www.flickr.com/photos/techmsg/27083741338/), [program](https://www.flickr.com/photos/techmsg/40920507942/))
 
 [Hank and My Honky Tonk Heroes](http://www.jasonpetty.com/)
 

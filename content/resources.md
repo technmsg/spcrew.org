@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: resources,manuals -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2017-11-15T10:00:00-05:00 -->
+<!-- updated: 2018-03-27T12:00:00-05:00 -->
 <!-- summary: The secret stash of guides, manuals, and other resources that enable the SPHS tech crew to do what we do. -->
 
 # Resources
@@ -227,6 +227,16 @@ PRO 3500
 
 * Owner's Manual ([PDF](https://vault.spcrew.org/monster/pro_3500.pdf))
 
+### Radial Engineering
+
+[Catapult](http://www.radialeng.com/catapult.php) 4-channel CAT-5 Audio Snake (RX4 & TX4)
+
+* User Guide ([PDF](http://www.radialeng.com/pdfs/Catapult-userguide.pdf))
+
+[ProAV2](http://www.radialeng.com/proav.php) Stereo Direct Box
+
+* User Guide ([PDF](http://www.radialeng.com/pdfs/manual-proav2.pdf))
+
 ### QSC
 
 [CX168](https://www.qsc.com/systems/products/power-amplifiers/commercial-amplifiers-dataport/cx-series-8-ch/cx168/) 8-Channel Low-Z Power Amplifier
@@ -276,6 +286,11 @@ SWA6SS antenna distribution amplifier
 * Operating Guide ([PDF](http://www.av-iq.com/avcat/images/documents/pdfs/swa6ss_operating%20guide.pdf))
 
 ### Shure
+
+[PGXD14](https://www.shure.com/americas/products/wireless-systems/pgxd-systems/pgxd14) Bodypack Wireless System
+
+* Brochure ([PDF](https://www.shure.com/brochures/pgxd_wireless_brochure.pdf))
+* User Guide ([PDF](http://pubs.shure.com/guide/PGXD/en-US))
 
 [SRH 240A](https://www.shure.com/americas/products/headphones/srh240a-professional-quality-headphones) headphones
 
@@ -439,6 +454,15 @@ PS-1A three chanel power supply
 * Quick Start Guide ([PDF](http://www.symetrix.co/downloads/xin12-and-xout-12-quick-start-guide/))
 
 ### Williams Sound
+
+[PPA R37](https://www.williamssound.com/catalog/ppa-r37) Personal PA FM Receiver
+
+* FM Brochure - Low Res ([PDF](https://www.williamssound.com/resources/products/web/brochures/2016_fm_brochure_lo_res.pdf))
+* Technical Bulletin - Using Williams Sound Receivers as an Audio Source ([PDF](https://www.williamssound.com/resources/products/web/tech_b/tech_bulletin_using_receiver_as_audio_source.pdf))
+* PPA R37 Specifications ([PDF](https://www.williamssound.com/resources/products/web/ppa/ppa_r37_specs_en.pdf))
+* FM Frequency/Channel Chart ([PDF](https://www.williamssound.com/resources/products/web/tech_b/tech_bulletin_72mhz_fm_chart.pdf))
+* FM Brochure - High Res ([PDF](https://www.williamssound.com/resources/products/web/brochures/2016_fm_brochure_hi_res.pdf))
+* PPA R37 Manual ([PDF](https://www.williamssound.com/resources/products/web/ppa/ppa_r37_manual_en.pdf))
 
 [PPA T45](https://www.williamssound.com/catalog/ppa-t45) Personal PA FM Base Station Transmitter
 

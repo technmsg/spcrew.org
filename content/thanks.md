@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: thanks,kudos -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2018-03-09T10:09:00-05:00 -->
+<!-- updated: 2018-03-20T12:05:00-05:00 -->
 <!-- summary: Special thanks to the following individuals for all their dedication and insight over the years, without which we wouldn't be the crew we are today. -->
 
 # Thanks
@@ -23,6 +23,7 @@ Doug Kotula,
 Ellen Lutrey,
 Gary Tawes ('82),
 Gordon Clement ('81),
+Jacob Yarnell ('15),
 Jessica Haynie,
 Jim Bowersox,
 Joe Dobson,
@@ -56,13 +57,16 @@ Organizations too!
 [4Wall Entertainment](https://www.4wall.com/),
 AED,
 [Afterglow Lighting](http://www.afterglowlighting.net/),
+[Audio Library](https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA),
 [Clement Hardware](http://clementhardware.com/),
 [Electro Sound Systems](http://www.electrosoundsystems.com/),
 [Falcon Drama Boosters](http://www.sphsdrama.com/boosters.html),
 Gina's Cantina,
 [J.F. Johnson Lumber](http://www.johnsonlumberco.com),
 [Main Light](https://www.mainlight.com/),
+[NoCopyrightSounds](https://www.youtube.com/user/NoCopyrightSounds),
 [Patuxent Engineering Group](http://www.patuxentengineering.com/),
+[Roberts Oxygen](https://www.robertsoxygen.com),
 [Spartan Lyrical Society](http://www.spmssings.org/),
 [Universal Builders Supply](http://www.ubs1.com/)
 
