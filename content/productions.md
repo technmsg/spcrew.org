@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: productions -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2018-03-09T10:00:00-05:00 -->
+<!-- updated: 2018-03-30T08:30:00-05:00 -->
 <!-- summary: Past productions and events that SPHS tech crew have worked on, including galleries of show shirts, programs, and other memorabilia. -->
 
 # Productions
@@ -326,7 +326,7 @@ RNR II
 
 ?
 
-RNR (the original)
+RNR (the original) ([video](https://www.youtube.com/playlist?list=PLBm3S-aCMv3SnUZhT3okS47nj7hpc96L2))
 
 ?
 
