@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: productions -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2018-03-30T08:30:00-05:00 -->
+<!-- updated: 2018-04-04T13:30:00-05:00 -->
 <!-- summary: Past productions and events that SPHS tech crew have worked on, including galleries of show shirts, programs, and other memorabilia. -->
 
 # Productions
@@ -26,7 +26,7 @@ Shows are listed in reverse chronological order within each school year, i.e. sp
 
 ### 2017-2018
 
-[Side Street Strutters](http://sidestreetstrutters.com/) (announced)
+[Side Street Strutters](http://sidestreetstrutters.com/) ([photos](https://www.flickr.com/photos/techmsg/shares/X438B2))
 
 RNR XXIX ([build](https://www.flickr.com/photos/techmsg/sets/72157689620246732), [show](https://www.flickr.com/photos/techmsg/sets/72157694621733075), and [curated](https://www.flickr.com/photos/techmsg/sets/72157664883356307) photos, [videos](https://www.youtube.com/playlist?list=PLBm3S-aCMv3Q_rb9uuWndO7b_3jIFhwW5), [shirt](https://www.flickr.com/photos/techmsg/27083741338/), [program](https://www.flickr.com/photos/techmsg/40920507942/))
 
