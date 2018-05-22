@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: productions -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2018-04-04T13:30:00-05:00 -->
+<!-- updated: 2018-04-24T10:25:00-05:00 -->
 <!-- summary: Past productions and events that SPHS tech crew have worked on, including galleries of show shirts, programs, and other memorabilia. -->
 
 # Productions
@@ -24,11 +24,23 @@ We hope to consult the school's yearbook archive in the fall to fill in the rema
 
 Shows are listed in reverse chronological order within each school year, i.e. spring, winter, fall.
 
+### 2018-2019
+
+RNR XXX (scheduled)
+
+[AACPS Dance Festival](https://www.aacps.org/Page/1477) (scheduled)
+
+Fall Musical (scheduled)
+
 ### 2017-2018
+
+[The Dance Center of Severna Park](https://www.spcommunitycenter.org/history-and-mission.html) (scheduled)
 
 [Side Street Strutters](http://sidestreetstrutters.com/) ([photos](https://www.flickr.com/photos/techmsg/shares/X438B2))
 
 RNR XXIX ([build](https://www.flickr.com/photos/techmsg/sets/72157689620246732), [show](https://www.flickr.com/photos/techmsg/sets/72157694621733075), and [curated](https://www.flickr.com/photos/techmsg/sets/72157664883356307) photos, [videos](https://www.youtube.com/playlist?list=PLBm3S-aCMv3Q_rb9uuWndO7b_3jIFhwW5), [shirt](https://www.flickr.com/photos/techmsg/27083741338/), [program](https://www.flickr.com/photos/techmsg/40920507942/))
+
+[AACPS Dance Festival](https://www.aacps.org/Page/1477)
 
 [Hank and My Honky Tonk Heroes](http://www.jasonpetty.com/)
 

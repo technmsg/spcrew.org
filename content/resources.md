@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: resources,manuals -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2018-03-27T12:00:00-05:00 -->
+<!-- updated: 2018-05-22T12:00:00-05:00 -->
 <!-- summary: The secret stash of guides, manuals, and other resources that enable the SPHS tech crew to do what we do. -->
 
 # Resources
@@ -134,6 +134,7 @@ Quadraverb 2
 [GLD](http://www.allen-heath.com/key-series/gld-series/)
 
 * Training Videos ([YouTube](https://www.youtube.com/watch?v=HPr7_tr84zY&list=PLq3_zC_Xz0PgHlZdL6_aljNR1_UxCGGdr))
+* GLD Chrome User Guide ([PDF](https://www.allen-heath.com/media/GLD-Chrome-User-Guide-AP9989_2.pdf))
 * Touch Screen Reference V1.5 ([PDF](http://www.allen-heath.com/media/GLD-Touch-Screen-Reference-V1.5_1.pdf))
 * GLD Quick Start Mixing Guide ([PDF](http://www.allen-heath.com/media/GLD+Quick+Start+Mixing+Guide.pdf))
 * GLD-AR2412 User Guide ([PDF](http://www.allen-heath.com/media/AR2412-Guide-AP8596_2.pdf))
