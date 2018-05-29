@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: productions -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2018-04-24T10:25:00-05:00 -->
+<!-- updated: 2018-05-29T10:25:00-05:00 -->
 <!-- summary: Past productions and events that SPHS tech crew have worked on, including galleries of show shirts, programs, and other memorabilia. -->
 
 # Productions
@@ -26,15 +26,27 @@ Shows are listed in reverse chronological order within each school year, i.e. sp
 
 ### 2018-2019
 
+[Sergei Teleshev](http://liveonstage.biz/sergei-teleshev/) (scheduled)
+
 RNR XXX (scheduled)
+
+[The Malpass Brothers](https://themalpassbrothers.com) (scheduled)
+
+[U.S. Navy Commodores](http://www.navyband.navy.mil/commodores.html) (scheduled)
 
 [AACPS Dance Festival](https://www.aacps.org/Page/1477) (scheduled)
 
 Fall Musical (scheduled)
 
+[My Funny Valentine](http://losw.liveonstage.biz/my-funny-valentine/) (scheduled)
+
+[Derik Nelson & Family](https://www.deriknelson.com) (scheduled)
+
 ### 2017-2018
 
 [The Dance Center of Severna Park](https://www.spcommunitycenter.org/history-and-mission.html) (scheduled)
+
+[Classical FX](http://classical-fx.com)
 
 [Side Street Strutters](http://sidestreetstrutters.com/) ([photos](https://www.flickr.com/photos/techmsg/shares/X438B2))
 
