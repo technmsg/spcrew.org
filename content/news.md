@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: news -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2018-03-27T10:00:00-05:00 -->
+<!-- updated: 2018-06-14T10:00:00-05:00 -->
 <!-- summary: All the news that's fit to print about SPHS Tech Crew. -->
 
 # News
@@ -12,6 +12,6 @@ All the news that's fit to print about SPHS Tech Crew:
 * RNR XXIX. That's a wrap, media has been added to [productions](productions.html). <small>Posted 03/27/18.</small>
 * RNR XXIX. Tech week starts Sunday, March 11th. Hold onto something. <small>Posted 03/09/18.</small>
 
-When in doubt, check the [calendar](calendar.html).
+When in doubt, check the [calendar](calendar.html). You can also elect to receive [occassional email updates](https://groups.google.com/forum/#!forum/crew-announce/join) via Google Groups.
 
 <!-- EOF -->
