@@ -56,7 +56,7 @@ We can play the following audio formats:
 * MP3: 32/44.1/48kHz, 32 to 320kbps, VBR (data CD)
 * WAV: 8/16/32/11.025/22.05/44.1/12/24/48kHz, 8/16bit (data CD)
 
-Music CDs that are commercially available and CD-R and CD-RW discs that have been recorded as audio CD format can be played. In this manual, these types of discs are called "audio CDs."
+Music CDs that are commercially available and CD-R and CD-RW discs that have been recorded as audio CD format can be played. These types of discs are called "audio CDs."
 
 We can play back CD-ROM/R/RW discs with MP3, MP2 and WAV files in ISO 9660 Level 1, Level 2 and Joliet formats. These types of discs are called, "data CDs."
 
