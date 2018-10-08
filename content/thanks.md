@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: thanks,kudos -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2018-03-20T12:05:00-05:00 -->
+<!-- updated: 2018-10-08T10:35:00-05:00 -->
 <!-- summary: Special thanks to the following individuals for all their dedication and insight over the years, without which we wouldn't be the crew we are today. -->
 
 # Thanks
@@ -11,6 +11,7 @@ Special thanks to the following individuals for all their dedication and insight
  
 Adam Stovall ('16),
 Angela Germanos ('74),
+Bob Rhoades,
 Brandon Eckstorm,
 Brett Tawes ('91),
 Brian Bolly,
@@ -28,6 +29,7 @@ Jessica Haynie,
 Jim Bowersox,
 Joe Dobson,
 Harry Wicks,
+Heather DeMaria,
 Hunter Reid,
 Kathy Gabriele,
 Kris McCullough,
@@ -43,6 +45,7 @@ Myra Carhart,
 Porter Tawes,
 Randy Hoffman,
 Sam Scalzi,
+Sara Metcalfe,
 Scott Lutrey,
 Scott Metcalfe,
 Sean Urbantke,

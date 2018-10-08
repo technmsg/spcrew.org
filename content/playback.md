@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: news -->
 <!-- published: 2018-05-22T16:00:00-05:00 -->
-<!-- updated: 2018-05-22T16:00:00-05:00 -->
+<!-- updated: 2018-10-08T13:35:00-05:00 -->
 <!-- summary: Audio and video formats supported by SPHS Tech Crew. -->
 
 # Playback Formats
@@ -14,7 +14,6 @@ The playback formats we support on various devices. Should your format not be li
 We can play the following audio formats from a USB drive:
 
 * WAV or FLAC files at 44.1 or 48 kHz
-* MP3 files (undocumented, but usually works)
 
 Supported file systems are FAT12, FAT16 and FAT32. Size limits are as follows:
 
