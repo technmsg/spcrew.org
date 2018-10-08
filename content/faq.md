@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: faq -->
 <!-- published: 2018-06-06T16:00:00-05:00 -->
-<!-- updated: 2018-06-14T16:00:00-05:00 -->
+<!-- updated: 2018-10-08T13:45:00-05:00 -->
 <!-- summary: Frequently asked questions of SPHS Tech Crew. -->
 
 # Frequently Asked Questions
@@ -13,7 +13,9 @@ Things we're asked all the time...
 
 **How big is the auditorium?**
 
-Per Anne Arundel County Fire Marshall, the auditorium has rated fire capacity of 1,012 persons.
+Per Anne Arundel County Fire Marshal, the [certified capacity of the auditorium](https://www.flickr.com/photos/techmsg/31193324428/) is 1,012 persons. This accounts for the 1,009 seats plus three operators at front of house.
+
+The [certified capacity of the stage](https://www.flickr.com/photos/techmsg/44156653475/) is 113 persons.
 
 **Are the speakers in the back working?**
 
