@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: productions -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2018-05-29T10:25:00-05:00 -->
+<!-- updated: 2018-11-02T10:25:00-05:00 -->
 <!-- summary: Past productions and events that SPHS tech crew have worked on, including galleries of show shirts, programs, and other memorabilia. -->
 
 # Productions
@@ -36,11 +36,11 @@ RNR XXX (scheduled)
 
 [AACPS Dance Festival](https://www.aacps.org/Page/1477) (scheduled)
 
-Fall Musical (scheduled)
+Mamma Mia! (in progress)
 
-[My Funny Valentine](http://losw.liveonstage.biz/my-funny-valentine/) (scheduled)
+[My Funny Valentine](http://losw.liveonstage.biz/my-funny-valentine/)
 
-[Derik Nelson & Family](https://www.deriknelson.com) (scheduled)
+[Derik Nelson & Family](https://www.deriknelson.com)
 
 ### 2017-2018
 
