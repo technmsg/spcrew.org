@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: thanks,kudos -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2018-10-08T10:35:00-05:00 -->
+<!-- updated: 2018-12-14T10:45:00-05:00 -->
 <!-- summary: Special thanks to the following individuals for all their dedication and insight over the years, without which we wouldn't be the crew we are today. -->
 
 # Thanks
@@ -22,6 +22,7 @@ Chris Timko,
 Donna Hoffman,
 Doug Kotula,
 Ellen Lutrey,
+Eric Holland,
 Gary Tawes ('82),
 Gordon Clement ('81),
 Jacob Yarnell ('15),
@@ -44,6 +45,7 @@ Matt Hutchison ('00),
 Myra Carhart,
 Porter Tawes,
 Randy Hoffman,
+Sam Andrews,
 Sam Scalzi,
 Sara Metcalfe,
 Scott Lutrey,
@@ -63,6 +65,7 @@ AED,
 [Audio Library](https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA),
 [Clement Hardware](http://clementhardware.com/),
 [Electro Sound Systems](http://www.electrosoundsystems.com/),
+[Excel Lighting Services](https://excellightingservices.com/),
 [Falcon Drama Boosters](http://www.sphsdrama.com/boosters.html),
 Gina's Cantina,
 [J.F. Johnson Lumber](http://www.johnsonlumberco.com),

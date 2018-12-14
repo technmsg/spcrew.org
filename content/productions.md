@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: productions -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2018-11-20T10:00:00-05:00 -->
+<!-- updated: 2018-12-14T10:45:00-05:00 -->
 <!-- summary: Past productions and events that SPHS tech crew have worked on, including galleries of show shirts, programs, and other memorabilia. -->
 
 # Productions
@@ -36,7 +36,7 @@ RNR XXX (scheduled)
 
 [AACPS Dance Festival](https://www.aacps.org/Page/1477) (scheduled)
 
-Mamma Mia! ([photos](https://www.flickr.com/photos/techmsg/albums/72157703153583434), [videos](https://www.youtube.com/playlist?list=PLBm3S-aCMv3SrwcQsBA5aeULNwc58tghG), shirt, program)
+Mamma Mia! ([photos](https://www.flickr.com/photos/techmsg/albums/72157703153583434), [videos](https://www.youtube.com/playlist?list=PLBm3S-aCMv3SrwcQsBA5aeULNwc58tghG), [shirt](https://www.flickr.com/photos/techmsg/31047802147/in/album-72157682539235811/), [program](https://www.flickr.com/photos/techmsg/44199733580/in/album-72157681827771632/))
 
 [My Funny Valentine](http://losw.liveonstage.biz/my-funny-valentine/)
 
@@ -44,7 +44,7 @@ Mamma Mia! ([photos](https://www.flickr.com/photos/techmsg/albums/72157703153583
 
 ### 2017-2018
 
-[The Dance Center of Severna Park](https://www.spcommunitycenter.org/history-and-mission.html) (scheduled)
+[The Dance Center of Severna Park](https://www.spcommunitycenter.org/history-and-mission.html)
 
 [Classical FX](http://classical-fx.com)
 
