@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: productions -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2018-12-14T10:45:00-05:00 -->
+<!-- updated: 2019-03-13T10:08:00-05:00 -->
 <!-- summary: Past productions and events that SPHS tech crew have worked on, including galleries of show shirts, programs, and other memorabilia. -->
 
 # Productions
@@ -24,17 +24,29 @@ We hope to consult the school's yearbook archive in the fall to fill in the rema
 
 Shows are listed in reverse chronological order within each school year, i.e. spring, winter, fall.
 
+### 2019-2020
+
+[The Maxwell Quartet](http://www.maxwellstringquartet.com/) (scheduled)
+
+[Peabody Ragtime Ensemble](http://peabodyonline.com/peabody-ragtime-ensemble/) (scheduled)
+
+[Loren & Mark](https://www.lorenandmark.com/) (scheduled)
+
+[Alina Kiryayeva](http://www.alinakiryayeva.com/) (scheduled)
+
+[Burlap to Cashmere](https://www.burlaptocashmere.com/) (scheduled)
+
 ### 2018-2019
 
 [Sergei Teleshev](http://liveonstage.biz/sergei-teleshev/) (scheduled)
 
-RNR XXX (scheduled)
+RNR XXX (build, show, and curated photos, videos, shirt, program)
 
-[The Malpass Brothers](https://themalpassbrothers.com) (scheduled)
+[The Malpass Brothers](https://themalpassbrothers.com)
 
-[U.S. Navy Commodores](http://www.navyband.navy.mil/commodores.html) (scheduled)
+[U.S. Navy Commodores](http://www.navyband.navy.mil/commodores.html) 
 
-[AACPS Dance Festival](https://www.aacps.org/Page/1477) (scheduled)
+[AACPS Dance Festival](https://www.aacps.org/Page/1477)
 
 Mamma Mia! ([photos](https://www.flickr.com/photos/techmsg/albums/72157703153583434), [videos](https://www.youtube.com/playlist?list=PLBm3S-aCMv3SrwcQsBA5aeULNwc58tghG), [shirt](https://www.flickr.com/photos/techmsg/31047802147/in/album-72157682539235811/), [program](https://www.flickr.com/photos/techmsg/44199733580/in/album-72157681827771632/))
 

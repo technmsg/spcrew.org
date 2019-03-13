@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: resources,manuals -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2018-05-22T12:00:00-05:00 -->
+<!-- updated: 2019-03-13T10:10:00-05:00 -->
 <!-- summary: The secret stash of guides, manuals, and other resources that enable the SPHS tech crew to do what we do. -->
 
 # Resources
@@ -117,14 +117,6 @@ Let us know if a link is broken; we have most of the PDFs archived in Google Dri
 
 ### Alesis
 
-M-EQ 230
-
-* Manual ([PDF](https://vault.spcrew.org/alesis/meq230_manual.pdf))
-
-Quadraverb
-
-* Manual ([PDF](https://vault.spcrew.org/alesis/QuadraVerb_Ref_Man_v1.0.pdf))
-
 Quadraverb 2
 
 * Reference Manual ([PDF](https://vault.spcrew.org/alesis/quadraverb2_manual.pdf))
@@ -222,6 +214,12 @@ FR M-800 amplifier
 
 * Owner's Manual ([PDF](https://supportloudtech.netx.net/file/asset/9804/original/attachment))
 
+### Midas
+
+[M32 Digital Console](http://www.musictribe.com/Categories/Midas/Mixers/Digital/M32-LIVE/p/P0C7R)
+
+* User Manual ([PDF](https://downloads.music-group.com/documents/midas/M32_M_EN.pdf))
+
 ### Monster Power
 
 PRO 3500
@@ -233,6 +231,10 @@ PRO 3500
 [Catapult](http://www.radialeng.com/catapult.php) 4-channel CAT-5 Audio Snake (RX4 & TX4)
 
 * User Guide ([PDF](http://www.radialeng.com/pdfs/Catapult-userguide.pdf))
+
+[JDX Direct-Drive](http://www.radialeng.com/product/jdx-direct-drive) Guitar Amp Simulator & DI Box
+
+* User Guide ([PDF](http://www.radialeng.com/wp-content/uploads/2018/03/jdxdirectdrive-manual-web.pdf))
 
 [ProAV2](http://www.radialeng.com/proav.php) Stereo Direct Box
 
@@ -258,12 +260,6 @@ PRO 3500
 [GX7](https://www.qsc.com/live-sound/products/power-amplifiers/gx-series/gx7/) Power Amplifier
 
 * See QSC GX5
-
-### Rane
-
-RE27 Real Time Analyzer with Pink Noise Generator 
-
-* Manual ([PDF](http://www.rane.com/pdf/old/re27man.pdf))
 
 ### Renkus-Heinz
 
