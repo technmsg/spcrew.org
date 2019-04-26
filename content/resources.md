@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: resources,manuals -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2019-03-13T10:10:00-05:00 -->
+<!-- updated: 2019-04-01T10:10:00-05:00 -->
 <!-- summary: The secret stash of guides, manuals, and other resources that enable the SPHS tech crew to do what we do. -->
 
 # Resources
@@ -165,12 +165,12 @@ Quadraverb 2
 
 ### d&b audiotechnik
 
-[B2 subwoofer](http://www.dbaudio.com/en/systems/details/b2-subwoofer.html)
+[B2 subwoofer](https://www.dbaudio.com/global/en/products/heritage/b2-sub/)
 
 * B2-SUB Manual 3.3 ([PDF](http://www.dbaudio.com/en/support/downloads/category/download/2851.html))
 * The C-Series Brochure ([PDF](http://www.dbaudio.com/en/support/downloads/category/download/4298.html))
 
-[D12 amplifier](http://www.dbaudio.com/en/systems/category/series/detail/heritage/amplifiers/d12-amplifier.html)
+[D12 amplifier](https://www.dbaudio.com/global/en/products/heritage/d12/)
 
 * D12 Firmware V2.32 Release notes ([PDF](http://www.dbaudio.com/en/support/downloads/category/download/4374.html))
 * D12 Hardware manual 4.9 ([PDF](http://www.dbaudio.com/en/support/downloads/category/download/3677.html))
@@ -180,7 +180,7 @@ Quadraverb 2
 * TI 330 Cardioid Subwoofer Array ([PDF](http://www.dbaudio.com/en/support/downloads/category/download/7925.html))
 * TI 340 D12 SenseDrive ([PDF](http://www.dbaudio.com/en/support/downloads/category/download/3916.html))
   
-[Q1 Loudspeaker](http://www.dbaudio.com/en/systems/category/series/detail/heritage/q-series/q1-loudspeaker.html) 
+[Q1 Loudspeaker](https://www.dbaudio.com/global/en/products/heritage/q1/) 
 
 * Q-Series Rigging manual 1.2 ([PDF](http://www.dbaudio.com/en/support/downloads/category/download/2736.html))
 * Q1 Manual 2.3 ([PDF](http://www.dbaudio.com/en/support/downloads/category/download/2732.html))
