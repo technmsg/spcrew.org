@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: productions -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2019-04-26T09:40:00-05:00 -->
+<!-- updated: 2019-05-23T14:45:00-05:00 -->
 <!-- summary: Past productions and events that SPHS tech crew have worked on, including galleries of show shirts, programs, and other memorabilia. -->
 
 # Productions
@@ -40,7 +40,7 @@ Shows are listed in reverse chronological order within each school year, i.e. sp
 
 [Sergei Teleshev](http://liveonstage.biz/sergei-teleshev/)
 
-RNR XXX ([build](https://flic.kr/s/aHskQvs9sc), [show](https://flic.kr/s/aHsmxqqqMs), [videos](https://www.youtube.com/playlist?list=PLBm3S-aCMv3RzcEJUC_fnEc_qY38RpBy5), shirt, program)
+RNR XXX ([build](https://flic.kr/s/aHskQvs9sc), [show](https://flic.kr/s/aHsmxqqqMs), [tech](https://www.youtube.com/playlist?list=PLBm3S-aCMv3RzcEJUC_fnEc_qY38RpBy5) & [performance](https://www.youtube.com/playlist?list=PLBm3S-aCMv3TWOcZYarW5vFn9MABWPIeW) videos, shirt, program)
 
 [The Malpass Brothers](https://themalpassbrothers.com)
 
