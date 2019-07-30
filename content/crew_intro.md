@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: students,intro -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2017-07-13T16:50:00-05:00 -->
+<!-- updated: 2019-07-30T13:00:00-05:00 -->
 <!-- summary: An introduction to SPHS tech crew for new and returning students. -->
 
 # Introduction to Crew
@@ -50,10 +50,9 @@ Work days are posted in many places:
  
 * on the Google Calendar - [spcrew.org/calendar.html](calendar.html)
 * student email list
-* Facebook
-* Slack
+* Slack #calendar
  
-Other information along with changes in work days or times will be sent out via Remind 101 and the Facebook Tech Crew Page. Note that these groups are updated annually, so last year's groups aren't likely to be used.
+Other information along with changes in work days or times will be sent out via email, so it's important for all students to check their email daily.
  
 ## Eligibility
  
@@ -72,7 +71,7 @@ Occasionally we'll have downtime in between projects, waiting for paint to dry, 
 
 ## Responsibilities
 
-We provide production support for events within the auditorium and occasionally around the school:
+We provide production support for events within the auditorium and occasionally around the school.
  
 We support two major productions each year:
 
