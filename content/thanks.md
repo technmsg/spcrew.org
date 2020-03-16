@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: thanks,kudos -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2019-03-13T10:20:00-05:00 -->
+<!-- updated: 2020-03-16T10:20:00-05:00 -->
 <!-- summary: Special thanks to the following individuals for all their dedication and insight over the years, without which we wouldn't be the crew we are today. -->
 
 # Thanks
@@ -42,6 +42,7 @@ Kim Hughes,
 Kyle Eshom,
 Larry Friedman,
 Laura Tiffany ('15),
+Lee Feldmann,
 Lori Stokes,
 Lynnley Moore,
 Mary Brierley,
@@ -72,12 +73,14 @@ AED,
 [Afterglow Lighting](http://www.afterglowlighting.net/),
 [Audio Library](https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA),
 [Clement Hardware](http://clementhardware.com/),
+[Cloudera](https://www.cloudera.com),
 [Electro Sound Systems](http://www.electrosoundsystems.com/),
 [Excel Lighting Services](https://excellightingservices.com/),
 [Falcon Drama Boosters](http://www.sphsdrama.com/boosters.html),
 Gina's Cantina,
 [J.F. Johnson Lumber](http://www.johnsonlumberco.com),
 [Main Light](https://www.mainlight.com/),
+[Mod Scenes](https://modscenes.com/),
 [NoCopyrightSounds](https://www.youtube.com/user/NoCopyrightSounds),
 [Patuxent Engineering Group](http://www.patuxentengineering.com/),
 [Roberts Oxygen](https://www.robertsoxygen.com),

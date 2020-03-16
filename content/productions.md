@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: productions -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2019-05-23T14:45:00-05:00 -->
+<!-- updated: 2020-03-16T09:45:00-05:00 -->
 <!-- summary: Past productions and events that SPHS tech crew have worked on, including galleries of show shirts, programs, and other memorabilia. -->
 
 # Productions
@@ -26,15 +26,23 @@ Shows are listed in reverse chronological order within each school year, i.e. sp
 
 ### 2019-2020
 
-[The Maxwell Quartet](http://www.maxwellstringquartet.com/) (scheduled)
+[The Maxwell Quartet](http://www.maxwellstringquartet.com/) (canceled)
 
-[Peabody Ragtime Ensemble](http://peabodyonline.com/peabody-ragtime-ensemble/) (scheduled)
+RNR XXX ([photos](https://flickr.com/photos/techmsg/albums/72157712649718376), [videos](https://www.youtube.com/playlist?list=PLBm3S-aCMv3T5o49tqw9sFXAceMBsVS67), shirt, program) (canceled)
 
-[Loren & Mark](https://www.lorenandmark.com/) (scheduled)
+[Peabody Ragtime Ensemble](http://peabodyonline.com/peabody-ragtime-ensemble/)
 
-[Alina Kiryayeva](http://www.alinakiryayeva.com/) (scheduled)
+[AACPS Dance Festival](https://www.aacps.org/Page/1477)
 
-[Burlap to Cashmere](https://www.burlaptocashmere.com/) (scheduled)
+[Loren & Mark](https://www.lorenandmark.com/)
+
+Cinderella ([photos](https://www.flickr.com/photos/techmsg/albums/72157711410505686), [build video](https://www.youtube.com/watch?v=f8ZnJLKfT1s&t=3s), shirt, program)
+
+[Anne Arundel County Police Department](https://www.aacounty.org/departments/police-department/index.html) 88th Recruit Class Graduation
+
+[Alina Kiryayeva](http://www.alinakiryayeva.com/)
+
+[Burlap to Cashmere](https://www.burlaptocashmere.com/)
 
 ### 2018-2019
 
