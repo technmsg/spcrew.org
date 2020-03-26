@@ -28,7 +28,7 @@ Shows are listed in reverse chronological order within each school year, i.e. sp
 
 [The Maxwell Quartet](http://www.maxwellstringquartet.com/) (canceled)
 
-RNR XXX ([photos](https://flickr.com/photos/techmsg/albums/72157712649718376), [videos](https://www.youtube.com/playlist?list=PLBm3S-aCMv3T5o49tqw9sFXAceMBsVS67), shirt, program) (canceled)
+RNR XXXI ([photos](https://flickr.com/photos/techmsg/albums/72157712649718376), [videos](https://www.youtube.com/playlist?list=PLBm3S-aCMv3T5o49tqw9sFXAceMBsVS67), shirt, program) (canceled)
 
 [Peabody Ragtime Ensemble](http://peabodyonline.com/peabody-ragtime-ensemble/)
 
