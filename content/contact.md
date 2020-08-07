@@ -18,7 +18,7 @@ Student scheduling issues ought to be sent to the advisors.
 * Parents: [crew-parents@googlegroups.com](mailto:crew-parents@googlegroups.com)
 * Webmaster: [webguru@spcrew.org](mailto:webguru@spcrew.org)
 
-You can also elect to receive [occassional email updates](https://groups.google.com/forum/#!forum/crew-announce/join) from us, usually a handful every year.
+You can also elect to receive [occasional email updates](https://groups.google.com/forum/#!forum/crew-announce/join) from us, usually a handful every year.
 
 Note: We do not publicize individual email addresses.
 

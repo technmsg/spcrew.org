@@ -94,7 +94,7 @@ Let us know if a link is broken; we have most of the PDFs archived in Google Dri
 
 [Wholehog 2](https://www2.highend.com/support/controllers/hog2.asp)
 
-> The Wholehog 2 operating system software is complete. No further development or bug fixes are planned. Library creation by Flying Pig Systems and High End Systems is also complete as of July 1, 2007. The complete catalog of library files made over the history of the Wholehog 2 is now available for download from this page. In addition, resouces for assisting in user created library files are available.
+> The Wholehog 2 operating system software is complete. No further development or bug fixes are planned. Library creation by Flying Pig Systems and High End Systems is also complete as of July 1, 2007. The complete catalog of library files made over the history of the Wholehog 2 is now available for download from this page. In addition, resources for assisting in user created library files are available.
 
 * User Manual ([PDF](https://www2.highend.com/support/controllers/documents/H2_manual.pdf))
 * Firmware v3.3 Build 177 ([Zip](https://www2.highend.com/support/controllers/software/tnt_177.zip))
@@ -312,7 +312,7 @@ SWA6SS antenna distribution amplifier
 [CD-200IL](http://tascam.com/product/cd-200il/) Professional CD player with 30-Pin & Lightning iPod dock
 
 * Tech Docs ([PDF](http://tascam.com/content/downloads/products/814/tas_cd200il_techdoc.pdf))
-* Spec Sheeet ([PDF](http://tascam.com/content/downloads/products/814/e_cd-200il_spec.pdf))
+* Spec Sheet ([PDF](http://tascam.com/content/downloads/products/814/e_cd-200il_spec.pdf))
 * Owner's Manual ([PDF](http://tascam.com/content/downloads/products/814/e_cd-200il_om_vb.pdf))
 
 [SS-CDR2000](http://tascam.com/product/ss-cdr200/) solid state recorder
@@ -341,7 +341,7 @@ SWA6SS antenna distribution amplifier
 
 ## Tools
 
-### Crasftman
+### Craftsman
 
 [Craftsman XSP 12 Gallon 5.5 Peak HP Wet/Dry Vac](https://www.craftsman.com/products/craftsman-xsp-12-gallon-5-5-peak-hp-wet-dry-vac)
 
@@ -389,7 +389,7 @@ Our original Technical Projects intercom units have long been discontinued, but 
 
 [RSM-1](https://www.performanceaudio.com/item/pro-intercom-rsm-1/26727/) remote sub-master station 
 
-PS-1A three chanel power supply
+PS-1A three channel power supply
 
 ## Things We Don't Control
 

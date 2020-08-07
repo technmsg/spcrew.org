@@ -374,7 +374,7 @@ RNR (the original) ([video](https://www.youtube.com/playlist?list=PLBm3S-aCMv3Sn
 
 ?
 
-## Acknowledgements
+## Acknowledgments
 
 It took a fair bit of time and effort to track all this down. Special thanks to all of the following for their help.
 

@@ -13,6 +13,6 @@ All the news that's fit to print about SPHS Tech Crew:
 * 2019-2012 Crew. MANDATORY orientation on Wednesday, September 18th from 5-8pm in the auditorium. New applicants and parents welcome! <small>Posted 08/28/19.</small>
 * No news is good news. <small>Posted 04/26/19.</small>
 
-When in doubt, check the [calendar](calendar.html). You can also elect to receive [occassional email updates](https://groups.google.com/forum/#!forum/crew-announce/join) via Google Groups.
+When in doubt, check the [calendar](calendar.html). You can also elect to receive [occasional email updates](https://groups.google.com/forum/#!forum/crew-announce/join) via Google Groups.
 
 <!-- EOF -->
