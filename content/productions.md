@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: productions -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2020-03-16T09:45:00-05:00 -->
+<!-- updated: 2021-01-30T14:45:00-05:00 -->
 <!-- summary: Past productions and events that SPHS tech crew have worked on, including galleries of show shirts, programs, and other memorabilia. -->
 
 # Productions
@@ -331,48 +331,40 @@ RNR VI ([program](https://www.flickr.com/photos/techmsg/34975842850/in/album-721
 A Christmas Carol ([shirt](https://www.flickr.com/photos/techmsg/35005952700/))
 <!-- jw -->
  
-### 1993-1994 (unconfirmed)
+### 1993-1994
 
-?
-
-RNR V
+RNR V ([shirt](https://www.flickr.com/photos/techmsg/50891533792/))
 
 Arsenic and Old Lace
 <!-- jw -->
 
-### 1992-1993 (unconfirmed)
+### 1992-1993
 
-?
-
-RNR IV ([program](https://www.flickr.com/photos/techmsg/35196547222/in/album-72157681827771632/))
+RNR IV ([program](https://www.flickr.com/photos/techmsg/35196547222/in/album-72157681827771632/), [shirt](https://www.flickr.com/photos/techmsg/50890707128/))
 
 The Miracle Worker ([poster](https://www.flickr.com/photos/techmsg/35758293185/in/album-72157682248191594/))
-<!-- sa -->
+<!-- sa jn -->
 
-### 1991-1992 (unconfirmed)
+### 1991-1992
 
-?
-
-RNR III
+RNR III ([shirt](https://www.flickr.com/photos/techmsg/50891533912/))
 
 The Mouse That Roared
-<!-- sa -->
+<!-- sa jn -->
 
-### 1990-1991 (unconfirmed)
+### 1990-1991
 
-?
+RNR II ([shirt](https://www.flickr.com/photos/techmsg/50891533927/))
 
-RNR II
+Harvey
+<!-- jn -->
 
-?
+### 1989-1990
 
-### 1989-1990 (unconfirmed)
+RNR (the original) ([shirt](https://www.flickr.com/photos/techmsg/50890707083/), [video](https://www.youtube.com/playlist?list=PLBm3S-aCMv3SnUZhT3okS47nj7hpc96L2))
 
-?
-
-RNR (the original) ([video](https://www.youtube.com/playlist?list=PLBm3S-aCMv3SnUZhT3okS47nj7hpc96L2))
-
-?
+Our Town
+<!-- jn -->
 
 ## Acknowledgments
 
