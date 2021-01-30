@@ -24,6 +24,10 @@ We hope to consult the school's yearbook archive in the fall to fill in the rema
 
 Shows are listed in reverse chronological order within each school year, i.e. spring, winter, fall.
 
+### 2020-2021
+
+RNR XXXII ([poster](https://www.flickr.com/photos/techmsg/50891599967/))
+
 ### 2019-2020
 
 [The Maxwell Quartet](http://www.maxwellstringquartet.com/) (canceled)
