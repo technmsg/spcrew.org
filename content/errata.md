@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: legal,policies,privacy,affiliations -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2017-06-16T22:30:00-05:00 -->
+<!-- updated: 2021-04-25T09:30:00-05:00 -->
 <!-- summary: Nothing but the fine print here: site policies concerning copyright, affiliations, privacy policy, and all that legal mumbo jumbo. -->
 
 # Errata
@@ -11,13 +11,13 @@ All the fine print: copyright, affiliations, site privacy policy, legal mumbo ju
 
 ## Copyright
 
-This web site's contents are Copyright &copy; 2017 SPHS Tech Crew and are available under the [Creative Commons](https://creativecommons.org/) [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License](http://creativecommons.org/licenses/by-nc/4.0/). Some rights reserved.
+This web site's contents are Copyright &copy; Severna Park High School Tech Crew and are available under the [Creative Commons](https://creativecommons.org/) [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License](http://creativecommons.org/licenses/by-nc/4.0/). Some rights reserved.
 
 Learn all about [Creative Commons](https://creativecommons.org/about/) or consult the [Frequently Asked Questions](https://creativecommons.org/faq/). Pretty awesome stuff.
 
 ## Affiliations
 
-The site maintainer is currently employed by [Cloudera](http://www.cloudera.com) and [Anne Arundel County Public Schools](http://www.aacps.org), although the opinions expressed on this site are those of the maintainer.
+The opinions expressed on this site are those of the site maintainers and not those of their respective employers (past or present), [Anne Arundel County Public Schools](https://www.aacps.org), or the [Falcon Drama Boosters](https://www.sphsdrama.com/about).
 
 The site maintainer is a participant in the [Amazon Services LLC Associates Program](https://affiliate-program.amazon.com/), an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to [amazon.com](http://www.amazon.com?tag=sptech-20). All fees from the program are used to subsidize the cost of web site hosting.
 
@@ -29,7 +29,7 @@ We will use your IP address to help diagnose problems with the web server, and t
 
 We will not rent or sell your name, address, email address, or other personal information to any third party without your permission. However, we must give full cooperation in any situation where we are required by law or legal process to provide such information.
 
-[Google Analytics](http://www.google.com/analytics/) is used to acquire broad demographic data about visitors, including geographic and user-agent information. Google stores this data in accordance with [their privacy policy](http://www.google.com/policies/privacy/).
+[Cloudflare Web Analytics](https://www.cloudflare.com/web-analytics/) is used to acquire broad demographic data about visitors, including geographic and user-agent information. Cloudflare stores this data in accordance with [their privacy policy](https://www.cloudflare.com/privacypolicy/).
 
 We reserve the right to republish or share the contents of any correspondence.
 
