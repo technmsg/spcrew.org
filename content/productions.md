@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: productions -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2021-02-14T20:06:00-05:00 -->
+<!-- updated: 2021-08-21T08:10:00-05:00 -->
 <!-- summary: Past productions and events that SPHS tech crew have worked on, including galleries of show shirts, programs, and other memorabilia. -->
 
 # Productions
@@ -36,7 +36,7 @@ RNR XXXI ([photos](https://flickr.com/photos/techmsg/albums/72157712649718376), 
 
 [Peabody Ragtime Ensemble](http://peabodyonline.com/peabody-ragtime-ensemble/)
 
-[AACPS Dance Festival](https://www.aacps.org/Page/1477)
+[AACPS Dance Festival](https://www.aacps.org/Page/1477) ([photos](https://www.flickr.com/photos/techmsg/shares/4Z0nwW))
 
 [Loren & Mark](https://www.lorenandmark.com/)
 
