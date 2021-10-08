@@ -2,12 +2,14 @@
 <!-- categories: pages -->
 <!-- tags: contact -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2018-06-14T09:00:00-05:00 -->
+<!-- updated: 2021-10-08T07:30:00-05:00 -->
 <!-- summary: We use group email lists for most public communication. Send us an email and respond as soon as we can. -->
 
 # Contact Us
 
-We use group email lists for most public communication. Send us an email and we'll respond as soon as we can.
+We use group email lists for most public communication.
+
+Your question may already be addressed in the [FAQ](faq.html). If not, send us an email and we'll respond as soon as we can.
 
 ## Email
 

@@ -2,14 +2,36 @@
 <!-- categories: pages -->
 <!-- tags: faq -->
 <!-- published: 2018-06-06T16:00:00-05:00 -->
-<!-- updated: 2018-10-08T13:45:00-05:00 -->
+<!-- updated: 2021-10-08T07:35:00-05:00 -->
 <!-- summary: Frequently asked questions of SPHS Tech Crew. -->
 
 # Frequently Asked Questions
 
 Things we're asked all the time...
 
+## Club
+
+**My student interested in tech crew, is it too late to sign up?**
+
+We accept new applicants in the fall, usually the first two weeks of the school year. [Our application](https://spcrew.org/app/) will indicate whether we're accepting new applicants.
+
+If we're full, you can [apply to our waitlist/overflow group](https://spcrew.org/overflow/). Should we have a student drop and/or need additional help with special projects, we'll pull from this group.
+
+**When does tech crew meet?**
+
+Tech crew is a bit different than most clubs in that we don't have a weekly meeting.
+
+We meet to prepare for and support events that require our help year-round -- including weeknights, weekends, and even through the summer -- so [our schedule](calendar.html) varies depending on the event calendar.
+
+Note: The drama department is one of the primary organizations we support so there's a bunch of crossover in personnel and times, but our calendars are very different.
+
 ## Auditorium
+
+**How do I book the auditorium?**
+
+Scheduling must be confirmed with the Business Manager.
+
+After scheduling, technical needs should be provided on our request form: [spcrew.org/request](https://spcrew.org/request)
 
 **How big is the auditorium?**
 
