@@ -9,15 +9,34 @@
 
 Tech crew doesn't collect fees from its members or for providing services to school groups. If you'd like to pitch in a few bucks, feel free.
 
-PayPal: donate@spcrew.org
+As they say, "tips are always appreciated, never expected."
+
+Thanks for stopping by!
+
+## PayPal
+
+We accept one-time and recurring donations via PayPal balance, bank account, or credit card.
+
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<inout type="hidden" name="cmd" value="_donations">
+<input type="hidden" name="business" value="donate@spcrew.org">
+<input type="hidden" name="item_name" value="SP Tech Crew">
+<input type="hidden" name="cancel_return" value="https://spcrew.org/canceled.html">
+<input type="hidden" name="return" value="https://spcrew.org/donation.html">
+<input type="hidden" name="no_note" value="0">
+<input type="hidden" name="currency_code" value="USD">
+<input type="hidden" name="no_shipping" value="1">
+<input type="hidden" name="bn" value="PP-DonationsBF:btn_donateCC_LG.gif:NonHosted)">
+</form>
+
+Note: You do *not* need to set up a PayPal account to pay if you are using a credit or debit card.
+
+## Amazon
 
 Browse Amazon.com using this link and we'll receive a small referral from qualifying purchases. ℹ️
 
 [https://www.amazon.com?tag=sptech-20](https://www.amazon.com?tag=sptech-20)
-
-As they say, "tips are always appreciated, never expected."
-
-Thanks for stopping by!
 
 ℹ️ As an Amazon Associate we earn from qualifying purchases. ([details](https://spcrew.org/errata.html))
 
