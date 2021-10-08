@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: thanks,kudos -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2020-03-16T10:20:00-05:00 -->
+<!-- updated: 2021-10-08T07:15:00-05:00 -->
 <!-- summary: Special thanks to the following individuals for all their dedication and insight over the years, without which we wouldn't be the crew we are today. -->
 
 # Thanks
@@ -69,23 +69,23 @@ Tom McKown
 Organizations too!
  
 [4Wall Entertainment](https://www.4wall.com/),
-AED,
-[Afterglow Lighting](http://www.afterglowlighting.net/),
+[AED](https://aedevents.com/),
+[Afterglow Lighting](https://www.afterglowlighting.net/),
 [Audio Library](https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA),
-[Clement Hardware](http://clementhardware.com/),
+[Clement Hardware](https://clementhardware.com/),
 [Cloudera](https://www.cloudera.com),
-[Electro Sound Systems](http://www.electrosoundsystems.com/),
+[Electro Sound Systems](https://electrosoundsystems.com/),
 [Excel Lighting Services](https://excellightingservices.com/),
-[Falcon Drama Boosters](http://www.sphsdrama.com/boosters.html),
-Gina's Cantina,
-[J.F. Johnson Lumber](http://www.johnsonlumberco.com),
+[Falcon Drama Boosters](https://www.sphsdrama.com/about),
+[Gina's Cantina](https://www.ginascantinamd.com/),
+[J.F. Johnson Lumber](https://www.johnsonlumber.biz/),
 [Main Light](https://www.mainlight.com/),
 [Mod Scenes](https://modscenes.com/),
 [NoCopyrightSounds](https://www.youtube.com/user/NoCopyrightSounds),
-[Patuxent Engineering Group](http://www.patuxentengineering.com/),
+[Patuxent Engineering Group](https://www.patuxentengineering.com/),
 [Roberts Oxygen](https://www.robertsoxygen.com),
-[Spartan Lyrical Society](http://www.spmssings.org/),
-[Universal Builders Supply](http://www.ubs1.com/)
+[Spartan Lyrical Society](https://www.spmssings.org/),
+[Universal Builders Supply](https://www.ubs1.com/)
 
 Thanks, all!
 
