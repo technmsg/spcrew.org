@@ -9,7 +9,7 @@
 
 We use group email lists for most public communication.
 
-Your question may already be addressed in the [FAQ](faq.html). If not, Send us an email and we'll respond as soon as we can.
+Your question may already be addressed in the [FAQ](faq.html). If not, send us an email and we'll respond as soon as we can.
 
 ## Email
 
