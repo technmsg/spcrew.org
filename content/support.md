@@ -32,7 +32,7 @@ Note: You do *not* need to set up a PayPal account to pay if you are using a cre
 
 ## Amazon
 
-Browse Amazon.com using this link and we'll receive a small referral fee from purchases through our affiliation with [Amazon Associates](https://affiliate-program.amazon.com/). The prices you pay are not affected in any way.
+Browse Amazon.com using this link and we'll receive a small referral fee from purchases through our affiliation with Amazon Associates. Purchase prices are not affected in any way.
 
 [https://www.amazon.com?tag=sptech-20](https://www.amazon.com?tag=sptech-20)
 
