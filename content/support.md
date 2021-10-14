@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: support,donation -->
 <!-- published: 2021-10-01T17:30:00-05:00 -->
-<!-- updated: 2021-10-08T09:00:00-05:00 -->
+<!-- updated: 2021-10-13T21:30:00-05:00 -->
 <!-- summary: Never expectated but always appreciated. -->
 
 # Support
@@ -41,6 +41,8 @@ If you already use Amazon Smile to support a non-profit, use this link. The prog
 [https://smile.amazon.com?tag=sptech-20](https://smile.amazon.com?tag=sptech-20)
 
 Note: Purchase prices are not affected in any way.
+
+ℹ️ To comply with [FTC Endorsement Guidelines](https://www.ftc.gov/tips-advice/business-center/guidance/ftcs-endorsement-guides-what-people-are-asking#affiliate), Amazon insists that we tell you, "as an Amazon Associate we earn from qualifying purchases."
   
 ## Materials
 

@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: legal,policies,privacy,affiliations -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2021-04-25T09:30:00-05:00 -->
+<!-- updated: 2021-10-13T21:30:00-05:00 -->
 <!-- summary: Nothing but the fine print here: site policies concerning copyright, affiliations, privacy policy, and all that legal mumbo jumbo. -->
 
 # Errata
@@ -19,7 +19,7 @@ Learn all about [Creative Commons](https://creativecommons.org/about/) or consul
 
 The opinions expressed on this site are those of the site maintainers and not those of their respective employers (past or present), [Anne Arundel County Public Schools](https://www.aacps.org), or the [Falcon Drama Boosters](https://www.sphsdrama.com/about).
 
-The site maintainer is a participant in the [Amazon Services LLC Associates Program](https://affiliate-program.amazon.com/), an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to [amazon.com](http://www.amazon.com?tag=sptech-20). All fees from the program are used to subsidize the cost of web site hosting.
+The site maintainer is a participant in the [Amazon Services LLC Associates Program](https://affiliate-program.amazon.com/), an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to [amazon.com](http://www.amazon.com?tag=sptech-20). As an Amazon Associate we earn from qualifying purchases. All commissions from the program are used to subsidize the cost of web site hosting and [support](support.html) tech crew.
 
 ## Privacy
 
