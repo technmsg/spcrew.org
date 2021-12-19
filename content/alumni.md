@@ -28,10 +28,10 @@ Alumni should:
 
 ## In Memoriam
 
-[Ellie Leikin](http://www.barrancofuneralhome.com/obituary/3410129) (1999 - 2015) ([photos](https://www.flickr.com/photos/techmsg/sets/72157664209740835))
+[Ellie Leikin](https://www.barrancofuneralhome.com/obituary/3410129) (1999 - 2015) ([photos](https://www.flickr.com/photos/techmsg/sets/72157664209740835))
 
-[Porter Tawes](http://www.barrancofuneralhome.com/home/obituary/3601974) (1939 - 2016)
+[Porter Tawes](https://www.barrancofuneralhome.com/obituary/3601974) (1939 - 2016)
 
-[Sharon Folts](http://www.barrancofuneralhome.com/obituary/3944780) (1962 - 2016)
+[Sharon Folts](https://www.barrancofuneralhome.com/obituary/3944780) (1962 - 2016)
 
 <!-- EOF -->

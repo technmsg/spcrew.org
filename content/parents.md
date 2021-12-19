@@ -11,7 +11,7 @@ You should definitely read the [Intro to Crew](crew_intro.html), but then we've 
 
 ## Expectations of Advisors
 
-We -- the [advisors](advisors.html) -- are employed by [Anne Arundel County Public Schools](http://www.aacps.org/) (AACPS) to advise the stage crew year-round, however we have full time jobs outside of the school system; our advisor role at SPHS is very similar to that of a sports coach.
+We -- the [advisors](advisors.html) -- are employed by [Anne Arundel County Public Schools](https://www.aacps.org/) (AACPS) to advise the stage crew year-round, however we have full time jobs outside of the school system; our advisor role at SPHS is very similar to that of a sports coach.
 
 We enjoy doing this. As much fun as we'll all have during the year, we take our responsibilities as advisors, teachers, and role models very seriously.
 

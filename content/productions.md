@@ -9,7 +9,7 @@
 
 A list of productions and events that the SPHS tech crew has supported over the years.
 
-In addition to these, we routinely support the following school groups at Severna Park High School: [band, chorus, and orchestra](http://www.sphsmusic.org) concerts, Dance Company rehearsals and recitals, evening high school graduation, [National Honor Society](https://www.nhs.us/) inductions, [One Act Plays](http://www.sphsdrama.com/one-act-plays.html), prom fashion show, S Factor, Sci-Fi movie nights, senior awards ceremony, [Severna Park Stage Company](http://www.sphsdrama.com/) (formerly SPHS Drama Club), [SP Cares](http://www.sphsdrama.com/severna-park-cares.html), [Tri-M](https://nafme.org/programs/tri-m-music-honor-society/), Talon Show, among others.
+In addition to these, we routinely support the following school groups at Severna Park High School: [band, chorus, and orchestra](https://sphsmusic.org) concerts, Dance Company rehearsals and recitals, evening high school graduation, [National Honor Society](https://www.nhs.us/) inductions, [One Act Plays](https://www.sphsdrama.com/copy-of-one-act-plays), prom fashion show, S Factor, Sci-Fi movie nights, senior awards ceremony, [Severna Park Stage Company](https://www.sphsdrama.com/) (formerly SPHS Drama Club), [SP Cares](https://www.sphsdrama.com/sp-cares), [Tri-M](https://nafme.org/programs/tri-m-music-honor-society/), Talon Show, among others.
 
 We hope to consult the school's yearbook archive in the fall to fill in the remaining gaps. If you can help us with photographs of programs or show shirts, please [contact us](contact.html)!
 
@@ -30,15 +30,15 @@ RNR XXXII ([poster](https://www.flickr.com/photos/techmsg/50891599967/))
 
 ### 2019-2020
 
-[The Maxwell Quartet](http://www.maxwellstringquartet.com/) (canceled)
+[The Maxwell Quartet](https://www.maxwellstringquartet.com/) (canceled)
 
 RNR XXXI ([photos](https://flickr.com/photos/techmsg/albums/72157712649718376), [videos](https://www.youtube.com/playlist?list=PLBm3S-aCMv3T5o49tqw9sFXAceMBsVS67), shirt, program) (canceled)
 
-[Peabody Ragtime Ensemble](http://peabodyonline.com/peabody-ragtime-ensemble/)
+[Peabody Ragtime Ensemble](https://peabodyonline.com/peabody-ragtime-ensemble/)
 
 [AACPS Dance Festival](https://www.aacps.org/Page/1477) ([photos](https://www.flickr.com/photos/techmsg/shares/4Z0nwW))
 
-[Loren & Mark](https://www.lorenandmark.com/)
+[Loren & Mark](https://www.cmientertainment.com/lineups/loren-and-mark)
 
 Cinderella ([photos](https://www.flickr.com/photos/techmsg/albums/72157711410505686), [build video](https://www.youtube.com/watch?v=f8ZnJLKfT1s&t=3s), shirt, program)
 
@@ -46,39 +46,39 @@ Cinderella ([photos](https://www.flickr.com/photos/techmsg/albums/72157711410505
 
 [Alina Kiryayeva](http://www.alinakiryayeva.com/)
 
-[Burlap to Cashmere](https://www.burlaptocashmere.com/)
+[Burlap to Cashmere](https://en.wikipedia.org/wiki/Burlap_to_Cashmere)
 
 ### 2018-2019
 
-[Sergei Teleshev](http://liveonstage.biz/sergei-teleshev/)
+[Sergei Teleshev](http://sergeiteleshev.com/)
 
 RNR XXX ([build](https://flic.kr/s/aHskQvs9sc), [show](https://flic.kr/s/aHsmxqqqMs), [tech](https://www.youtube.com/playlist?list=PLBm3S-aCMv3RzcEJUC_fnEc_qY38RpBy5) & [performance](https://www.youtube.com/playlist?list=PLBm3S-aCMv3TWOcZYarW5vFn9MABWPIeW) videos, shirt, program)
 
 [The Malpass Brothers](https://themalpassbrothers.com)
 
-[U.S. Navy Commodores](http://www.navyband.navy.mil/commodores.html) 
+[U.S. Navy Commodores](https://www.navyband.navy.mil/ensembles/commodores)
 
 [AACPS Dance Festival](https://www.aacps.org/Page/1477)
 
 Mamma Mia! ([photos](https://www.flickr.com/photos/techmsg/albums/72157703153583434), [videos](https://www.youtube.com/playlist?list=PLBm3S-aCMv3SrwcQsBA5aeULNwc58tghG), [shirt](https://www.flickr.com/photos/techmsg/31047802147/in/album-72157682539235811/), [program](https://www.flickr.com/photos/techmsg/44199733580/in/album-72157681827771632/))
 
-[My Funny Valentine](http://losw.liveonstage.biz/my-funny-valentine/)
+My Funny Valentine
 
 [Derik Nelson & Family](https://www.deriknelson.com)
 
 ### 2017-2018
 
-[The Dance Center of Severna Park](https://www.spcommunitycenter.org/history-and-mission.html)
+[The Dance Center of Severna Park](https://www.spcommunitycenter.org/dance.html)
 
 [Classical FX](http://classical-fx.com)
 
-[Side Street Strutters](http://sidestreetstrutters.com/) ([photos](https://www.flickr.com/photos/techmsg/shares/X438B2))
+[Side Street Strutters](https://www.sidestreetstrutters.com/) ([photos](https://www.flickr.com/photos/techmsg/shares/X438B2))
 
 RNR XXIX ([build](https://www.flickr.com/photos/techmsg/sets/72157689620246732), [show](https://www.flickr.com/photos/techmsg/sets/72157694621733075), and [curated](https://www.flickr.com/photos/techmsg/sets/72157664883356307) photos, [videos](https://www.youtube.com/playlist?list=PLBm3S-aCMv3Q_rb9uuWndO7b_3jIFhwW5), [shirt](https://www.flickr.com/photos/techmsg/27083741338/), [program](https://www.flickr.com/photos/techmsg/40920507942/))
 
 [AACPS Dance Festival](https://www.aacps.org/Page/1477)
 
-[Hank and My Honky Tonk Heroes](http://www.jasonpetty.com/)
+[Hank and My Honky Tonk Heroes](https://www.jasonpetty.com/)
 
 Oklahoma ([photos](https://www.flickr.com/photos/techmsg/sets/72157687658590764), [videos](https://www.youtube.com/playlist?list=PLBm3S-aCMv3T_-ixSTJjfvclFRXtkh_KA), [shirt](https://www.flickr.com/photos/techmsg/37703316224/in/album-72157682539235811/), [program](https://www.flickr.com/photos/techmsg/37703316244/in/album-72157681827771632/))
 
@@ -92,9 +92,9 @@ SPHS Teen Musical Theatre Camp
 
 SPHS Summer Drama Camp
 
-[The Young Columbians](http://cctarts.org/the-young-columbians/)
+[The Young Columbians](https://cctarts.org/the-young-columbians-2021-2022/)
 
-[The Dance Center of Severna Park](http://www.thedancecenterofsevernapark.org/)
+[The Dance Center of Severna Park](https://www.spcommunitycenter.org/dance.html)
 
 Severna Park Middle School Dance Company
 
@@ -104,13 +104,13 @@ RNR XXVIII ([build](https://www.flickr.com/photos/techmsg/sets/72157679238386146
 
 The Building Move (photos from [the old](https://www.flickr.com/photos/techmsg/sets/72157673344735104) to [the new](https://www.flickr.com/photos/techmsg/sets/72157678703923125))
 
-[Kat Trio](http://thekattrio.net/) ([photos](https://www.flickr.com/photos/techmsg/shares/59G412))
+[Kat Trio](https://thekattrio.net/) ([photos](https://www.flickr.com/photos/techmsg/shares/59G412))
 
 School of Rock ([photos](https://www.flickr.com/photos/techmsg/sets/72157675119999706), [program](https://www.flickr.com/photos/techmsg/34975840440/in/album-72157681827771632/), [shirt](https://www.flickr.com/photos/techmsg/35361107775/in/album-72157682539235811/), [pass](https://www.flickr.com/photos/techmsg/34553766273/in/album-72157682539235811/))
 
 [FM Live](https://facebook.com/fmliveonstage/) ([photos](https://www.flickr.com/photos/techmsg/shares/QY00N8))
 
-[David Burnham](http://www.davidburnham.com/)'s Broadway ([photos](https://www.flickr.com/photos/techmsg/shares/598sL2))
+[David Burnham](https://www.davidburnham.com/)'s Broadway ([photos](https://www.flickr.com/photos/techmsg/shares/598sL2))
 
 ### 2015-2016
 

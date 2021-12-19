@@ -42,7 +42,7 @@ If you already use Amazon Smile to support a non-profit, use this link. The prog
 
 Note: Purchase prices are not affected in any way.
 
-ℹ️ To comply with [FTC Endorsement Guidelines](https://www.ftc.gov/tips-advice/business-center/guidance/ftcs-endorsement-guides-what-people-are-asking#affiliate), Amazon insists that we tell you, "as an Amazon Associate we earn from qualifying purchases."
+ℹ️ To comply with [FTC Endorsement Guidelines](https://www.ftc.gov/tips-advice/business-center/guidance/ftcs-endorsement-guides-what-people-are-asking#affiliateornetwork), Amazon insists that we tell you, "as an Amazon Associate we earn from qualifying purchases."
   
 ## Materials
 

@@ -11,7 +11,7 @@ All the fine print: copyright, affiliations, site privacy policy, legal mumbo ju
 
 ## Copyright
 
-This web site's contents are Copyright &copy; Severna Park High School Tech Crew and are available under the [Creative Commons](https://creativecommons.org/) [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License](http://creativecommons.org/licenses/by-nc/4.0/). Some rights reserved.
+This web site's contents are Copyright &copy; Severna Park High School Tech Crew and are available under the [Creative Commons](https://creativecommons.org/) [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License](https://creativecommons.org/licenses/by-nc/4.0/). Some rights reserved.
 
 Learn all about [Creative Commons](https://creativecommons.org/about/) or consult the [Frequently Asked Questions](https://creativecommons.org/faq/). Pretty awesome stuff.
 
@@ -19,7 +19,7 @@ Learn all about [Creative Commons](https://creativecommons.org/about/) or consul
 
 The opinions expressed on this site are those of the site maintainers and not those of their respective employers (past or present), [Anne Arundel County Public Schools](https://www.aacps.org), or the [Falcon Drama Boosters](https://www.sphsdrama.com/about).
 
-The site maintainer is a participant in the [Amazon Services LLC Associates Program](https://affiliate-program.amazon.com/), an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to [amazon.com](http://www.amazon.com?tag=sptech-20). As an Amazon Associate we earn from qualifying purchases. All commissions from the program are used to subsidize the cost of web site hosting and [support](support.html) tech crew.
+The site maintainer is a participant in the [Amazon Services LLC Associates Program](https://affiliate-program.amazon.com/), an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to [amazon.com](https://www.amazon.com?tag=sptech-20). As an Amazon Associate we earn from qualifying purchases. All commissions from the program are used to subsidize the cost of web site hosting and [support](support.html) tech crew.
 
 ## Privacy
 
@@ -39,7 +39,7 @@ This site gives users the following options for changing and modifying informati
 
 1. [Send an email](mailto:contact@spcrew.org)
 2. [File an issue](https://github.com/technmsg/spcrew.org/issues/new)
-3. [Create a pull request](https://github.com/spcrew.org/blog/compare)
+3. [Create a pull request](https://github.com/technmsg/spcrew.org/compare)
 4. [Tweet to the maintainer](https://twitter.com/intent/tweet?text=@technmsg%20%3CYour%20feedback%20here%3E)
 
 ## Modification
