@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: productions -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2021-08-21T08:10:00-05:00 -->
+<!-- updated: 2021-12-19T08:10:00-05:00 -->
 <!-- summary: Past productions and events that SPHS tech crew have worked on, including galleries of show shirts, programs, and other memorabilia. -->
 
 # Productions
@@ -23,6 +23,12 @@ We hope to consult the school's yearbook archive in the fall to fill in the rema
 ## The List
 
 Shows are listed in reverse chronological order within each school year, i.e. spring, winter, fall.
+
+### 2021-2022
+
+RNR XXXIII (in the works)
+
+Freaky Friday ([photos](https://flickr.com/photos/techmsg/albums/72177720295383271))
 
 ### 2020-2021
 
