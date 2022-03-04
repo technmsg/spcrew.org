@@ -59,5 +59,5 @@ We make no express or implied warranties of representations with respect to spcr
 If you have any questions about these policies, the practices of this site, or your dealings with this web site, you can contact:
 
 Alex Moundalexis  
-PO Box 56  
-Millersville, MD 21108-0056
+C/O SPHS Tech Crew  
+Severna Park, MD 21146-2899
