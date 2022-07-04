@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: productions -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2021-12-19T08:10:00-05:00 -->
+<!-- updated: 2022-07-04T08:10:00-05:00 -->
 <!-- summary: Past productions and events that SPHS tech crew have worked on, including galleries of show shirts, programs, and other memorabilia. -->
 
 # Productions
@@ -26,7 +26,9 @@ Shows are listed in reverse chronological order within each school year, i.e. sp
 
 ### 2021-2022
 
-RNR XXXIII (in the works)
+RNR XXXIII ([photos](https://www.flickr.com/photos/techmsg/albums/72177720297150178), [videos](https://www.youtube.com/playlist?list=PLBm3S-aCMv3SSPKa7SqlU5msHcGAwZ3Hj))
+
+[AACPS Dance Festival](https://www.aacps.org/Page/1477)
 
 Freaky Friday ([photos](https://flickr.com/photos/techmsg/albums/72177720295383271))
 
