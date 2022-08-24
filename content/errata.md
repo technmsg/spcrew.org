@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: legal,policies,privacy,affiliations -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2021-10-13T21:30:00-05:00 -->
+<!-- updated: 2022-08-23T21:30:00-05:00 -->
 <!-- summary: Nothing but the fine print here: site policies concerning copyright, affiliations, privacy policy, and all that legal mumbo jumbo. -->
 
 # Errata
@@ -60,4 +60,5 @@ If you have any questions about these policies, the practices of this site, or y
 
 Alex Moundalexis  
 C/O SPHS Tech Crew  
+60 Robinson Road  
 Severna Park, MD 21146-2899
