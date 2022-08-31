@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: faq -->
 <!-- published: 2018-06-06T16:00:00-05:00 -->
-<!-- updated: 2021-10-08T07:35:00-05:00 -->
+<!-- updated: 2022-08-30T20:20:00-05:00 -->
 <!-- summary: Frequently asked questions of SPHS Tech Crew. -->
 
 # Frequently Asked Questions
@@ -24,6 +24,14 @@ Tech crew is a bit different than most clubs in that we don't have a weekly meet
 We meet to prepare for and support events that require our help year-round -- including weeknights, weekends, and even through the summer -- so [our schedule](calendar.html) varies depending on the event calendar.
 
 Note: The drama department is one of the primary organizations we support so there's a bunch of crossover in personnel and times, but our calendars are very different.
+
+**My student is involved in a fall sport or extracurricular activity. Will they be able to participate in Tech Crew for winter and spring productions? or are they out for the entire year?**
+
+We don't exclude students from a production solely because they opted to participate in other extracurricular activities, but the less we see of them the harder it is to observe how they engage with others, learn the necessary production skills, and most importantly balance the time commitment with family and school obligations.
+
+Larger productions offer a more structured experience for a large group of students but are a significant time commitment. We support several dozen smaller events throughout the school year and each affords learning opportunities for a smaller group. All of our techs can volunteer to support events as their schedule and interest permits. These smaller events may be less flashy, but they're an excellent way to demonstrate interest and learn production skills.
+
+We have had students in the past manage numerous extracurricular activities in addition to tech: sports, band, clubs, scouting, etc. Sometimes that means stepping back from fall or spring productions to focus on other interests. Sometimes that means taking on a more limited role, i.e. helping out with the construction phase but forgoing a position on the running crew. Sometimes that means focusing on smaller evening events. Each student's path depends on their unique desires, level of interest, and their ability to balance various commitments.
 
 ## Auditorium
 
