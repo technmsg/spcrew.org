@@ -1,2 +1,7 @@
 User-agent: ia_archiver
 Disallow: /
+User-agent: *
+Disallow: /app
+Disallow: /donate
+Disallow: /overflow
+Disallow: /request
