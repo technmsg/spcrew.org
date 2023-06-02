@@ -2,12 +2,14 @@
 <!-- categories: pages -->
 <!-- tags: parents,expectations -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2020-10-06T18:30:00-05:00 -->
+<!-- updated: 2023-06-02T18:30:00-05:00 -->
 <!-- summary: A few words for the parents of students involved in SPHS tech crew. -->
 
 # Parents
 
 You should definitely read the [Intro to Crew](crew_intro.html), but then we've got some things just for you.
+
+Your question may already be addressed in the [FAQ](faq.html). If not, send us an email and we'll respond as soon as we can.
 
 ## Expectations of Advisors
 
