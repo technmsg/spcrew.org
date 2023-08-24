@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: support,donation -->
 <!-- published: 2021-10-01T17:30:00-05:00 -->
-<!-- updated: 2021-10-13T21:30:00-05:00 -->
+<!-- updated: 2022-11-23T13:50:00-05:00 -->
 <!-- summary: Never expectated but always appreciated. -->
 
 # Support
@@ -11,7 +11,21 @@ Tech crew doesn't collect fees from its members or for providing services to sch
 
 As they say, "tips are always appreciated, never expected."
 
-## Monetary
+## Amazon
+
+Browse Amazon.com using this link and we'll receive a small commission from purchases through our affiliation with Amazon Associates.
+
+[https://www.amazon.com?tag=sptech-20](https://www.amazon.com?tag=sptech-20)
+
+If you already use Amazon Smile to support a non-profit, use this link. The programs are compatible and _both_ organizations will receive a commission.
+
+[https://smile.amazon.com?tag=sptech-20](https://smile.amazon.com?tag=sptech-20)
+
+Note: Purchase prices are not affected in any way.
+
+ℹ️ To comply with [FTC Endorsement Guidelines](https://www.ftc.gov/tips-advice/business-center/guidance/ftcs-endorsement-guides-what-people-are-asking#affiliateornetwork), Amazon insists that we tell you, "as an Amazon Associate we earn from qualifying purchases."
+
+## Donations
 
 We accept one-time and recurring donations via PayPal balance, bank account, or credit card.
 
@@ -29,20 +43,6 @@ We accept one-time and recurring donations via PayPal balance, bank account, or 
 </form>
 
 Note: You do *not* need to set up a PayPal account to pay if you are using a credit or debit card.
-
-## Amazon
-
-Browse Amazon.com using this link and we'll receive a small commission from purchases through our affiliation with Amazon Associates.
-
-[https://www.amazon.com?tag=sptech-20](https://www.amazon.com?tag=sptech-20)
-  
-If you already use Amazon Smile to support a non-profit, use this link. The programs are compatible and _both_ organizations will receive a commission.
-
-[https://smile.amazon.com?tag=sptech-20](https://smile.amazon.com?tag=sptech-20)
-
-Note: Purchase prices are not affected in any way.
-
-ℹ️ To comply with [FTC Endorsement Guidelines](https://www.ftc.gov/tips-advice/business-center/guidance/ftcs-endorsement-guides-what-people-are-asking#affiliateornetwork), Amazon insists that we tell you, "as an Amazon Associate we earn from qualifying purchases."
   
 ## Materials
 
