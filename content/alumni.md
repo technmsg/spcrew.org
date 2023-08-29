@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: alumni -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2023-04-19T08:35:00-05:00 -->
+<!-- updated: 2023-08-29T08:35:00-05:00 -->
 <!-- summary: We have a long tradition of former students that return to assist, passing down what they've learned in tech, school, and industry to current students and advisors alike. -->
 
 # Alumni
@@ -33,6 +33,8 @@ Alumni should:
 [Porter Tawes](https://www.barrancofuneralhome.com/obituary/3601974) (1939 - 2016)
 
 [Sharon Folts](https://www.barrancofuneralhome.com/obituary/3944780) (1962 - 2016)
+
+[Bruce Blackman](https://www.legacy.com/us/obituaries/capitalgazette/name/bruce-blackman-obituary?id=16458254) (1956-2017)
 
 [Sybil DiMaggio](https://www.singletonfuneralhome.com/obituary/Sybil-DiMaggio) (1976 - 2023)
 
