@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: thanks,kudos -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2021-10-08T07:15:00-05:00 -->
+<!-- updated: 2023-08-29T07:15:00-05:00 -->
 <!-- summary: Special thanks to the following individuals for all their dedication and insight over the years, without which we wouldn't be the crew we are today. -->
 
 # Thanks
@@ -14,6 +14,8 @@ Angela Germanos ('74),
 Bob Rhoades,
 Brandon Eckstorm,
 Brett Tawes ('91),
+Crystee Ballard,
+Geoff Bernstein,
 Brian Bolly,
 Bruce Blackman,
 Cam Stokes,
