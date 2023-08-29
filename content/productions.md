@@ -426,7 +426,7 @@ Our Town
 
 It took a fair bit of time and effort to track all this down. Special thanks to all of the following for their help.
 
-[Alex Moundalexis](https://twitter.com/technmsg),
+Alex Moundalexis,
 Andy Webber,
 Brittany Robinson,
 Chris Doyle,
@@ -440,7 +440,7 @@ Eileen Keck,
 Eric Landgraf,
 Evan Rockenbauch,
 Hannah Moore,
-[Jenn Nicolosi](https://www.linkedin.com/in/jennifer-nicolosi-b5699a22),
+Jenn Nicolosi,
 Kat Heisler,
 Kate Gahs,
 Katie Hughes,
