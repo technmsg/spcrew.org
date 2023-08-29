@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: support,donation -->
 <!-- published: 2021-10-01T17:30:00-05:00 -->
-<!-- updated: 2022-11-23T13:50:00-05:00 -->
+<!-- updated: 2023-08-29T13:50:00-05:00 -->
 <!-- summary: Never expectated but always appreciated. -->
 
 # Support
@@ -16,10 +16,6 @@ As they say, "tips are always appreciated, never expected."
 Browse Amazon.com using this link and we'll receive a small commission from purchases through our affiliation with Amazon Associates.
 
 [https://www.amazon.com?tag=sptech-20](https://www.amazon.com?tag=sptech-20)
-
-If you already use Amazon Smile to support a non-profit, use this link. The programs are compatible and _both_ organizations will receive a commission.
-
-[https://smile.amazon.com?tag=sptech-20](https://smile.amazon.com?tag=sptech-20)
 
 Note: Purchase prices are not affected in any way.
 
