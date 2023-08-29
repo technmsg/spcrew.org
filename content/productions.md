@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: productions -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2022-11-21T08:50:00-05:00 -->
+<!-- updated: 2023-08-29T08:50:00-05:00 -->
 <!-- summary: Past productions and events that SPHS tech crew have worked on, including galleries of show shirts, programs, and other memorabilia. -->
 
 # Productions
@@ -24,13 +24,41 @@ We hope to consult the school's yearbook archive in the fall to fill in the rema
 
 Shows are listed in reverse chronological order within each school year, i.e. spring, winter, fall.
 
-### 2022-2023
+### 2023-2024
 
-Vinyl Radio (scheduled)
+Evening High School Graduation (scheduled)
+
+Chesapeake Science Point Graduation (scheduled)
+
+AACPS Virtual Academy Graduation (scheduled)
+
+Model UN Conference (scheduled)
+
+Dance Champs Elite Dance Competition (scheduled)
+
+SPES Variety Show (scheduled)
 
 RNR XXXIV (scheduled)
 
-[The Eric Byrd Trio](https://ericbyrdtrio.com/) (scheduled)
+The Addams Family (scheduled)
+
+Jača (scheduled)
+
+SHAPE MD Healthy & PE Conference (scheduled)
+
+Battle of the Bands (scheduled)
+
+[The Oyster Boys](https://oysterboys.com/) (scheduled)
+
+AACPS OSP/HELP Conference
+
+### 2022-2023
+
+[Vinyl Radio](https://www.facebook.com/vinylradio/)
+
+RNR XXXIV
+
+[The Eric Byrd Trio](https://ericbyrdtrio.com/)
 
 Footloose ([photos](https://flickr.com/photos/techmsg/albums/72177720302611770))
 
