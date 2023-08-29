@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: legal,policies,privacy,affiliations -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2022-08-23T21:30:00-05:00 -->
+<!-- updated: 2023-08-29T21:30:00-05:00 -->
 <!-- summary: Nothing but the fine print here: site policies concerning copyright, affiliations, privacy policy, and all that legal mumbo jumbo. -->
 
 # Errata
@@ -37,10 +37,9 @@ We reserve the right to republish or share the contents of any correspondence.
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-1. [Send an email](mailto:contact@spcrew.org)
+1. [Send an email](mailto:webguru@spcrew.org)
 2. [File an issue](https://github.com/technmsg/spcrew.org/issues/new)
 3. [Create a pull request](https://github.com/technmsg/spcrew.org/compare)
-4. [Tweet to the maintainer](https://twitter.com/intent/tweet?text=@technmsg%20%3CYour%20feedback%20here%3E)
 
 ## Modification
 
