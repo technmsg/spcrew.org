@@ -1,0 +1,13 @@
+Hello,
+
+We attempted to add/invite you to our Google Group, but your Google account has that privilege disabled.
+
+To fix in the short term, see the instructions about managing your global settings here:
+
+https://support.google.com/groups/answer/9792489
+
+You’ll need to go to Add/Invite settings and allow group owners and managers to invite you to join their group.
+
+Once that’s done, let us know, we’ll resend the invite, and once you’ve joined you can go back in and revert the add/invite settings to be more restrictive.
+
+Thanks!
