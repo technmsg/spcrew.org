@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: contact -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2023-08-29T07:30:00-05:00 -->
+<!-- updated: 2023-09-07T07:30:00-05:00 -->
 <!-- summary: We use group email lists for most public communication. Send us an email and respond as soon as we can. -->
 
 # Contact Us
@@ -16,8 +16,6 @@ Your question may already be addressed in the [FAQ](faq.html). If not, send us a
 Student scheduling issues ought to be sent to the advisors.
 
 * Advisors: [staff@spcrew.org](staff@spcrew.org)
-* Alumni: [crew-alumni@googlegroups.com](mailto:crew-alumni@googlegroups.com)
-* Parents: [crew-parents@googlegroups.com](mailto:crew-parents@googlegroups.com)
 * Webmaster: [webguru@spcrew.org](mailto:webguru@spcrew.org)
 
 You can also elect to receive [occasional email updates](https://groups.google.com/forum/#!forum/crew-announce/join) from us, usually a handful every year.
