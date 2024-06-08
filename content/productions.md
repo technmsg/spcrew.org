@@ -2,7 +2,7 @@
 <!-- categories: pages -->
 <!-- tags: productions -->
 <!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2023-08-29T08:50:00-05:00 -->
+<!-- updated: 2024-06-08T15:14:00-05:00 -->
 <!-- summary: Past productions and events that SPHS tech crew have worked on, including galleries of show shirts, programs, and other memorabilia. -->
 
 # Productions
@@ -24,29 +24,47 @@ We hope to consult the school's yearbook archive in the fall to fill in the rema
 
 Shows are listed in reverse chronological order within each school year, i.e. spring, winter, fall.
 
+### 2024-2025
+
+RNR XXXV (scheduled)
+
+Catch Me If You Can (scheduled)
+
+St. John the Evangelist Christmas Eve Mass (scheduled)
+
+[Annapolis Symphony Orchestra](https://annapolissymphony.org/) (scheduled)
+
+[Harbor City Music Company](https://harborcitymusiccompany.org/) (scheduled)
+
 ### 2023-2024
 
-Evening High School Graduation (scheduled)
+County Dance Summer Program Concert (scheduled)
 
-Chesapeake Science Point Graduation (scheduled)
+Falcon Drama Camp (scheduled)
 
-AACPS Virtual Academy Graduation (scheduled)
+[Jamz Dance Studio](http://jamzdancestudio.com/)
 
-Model UN Conference (scheduled)
+Evening High School Graduation
 
-Dance Champs Elite Dance Competition (scheduled)
+Chesapeake Science Point Graduation
 
-SPES Variety Show (scheduled)
+AACPS Virtual Academy Graduation
 
-RNR XXXIV (scheduled)
+[Chesapeake Youth Symphony Orchestra](https://www.cysomusic.org/) Season Finale
 
-The Addams Family (scheduled)
+National Board Certification Support
 
-Jača (scheduled)
+[Key of G](https://www.keyofglive.com/)
 
-SHAPE MD Healthy & PE Conference (scheduled)
+SPES Variety Show
 
-Battle of the Bands (scheduled)
+RNR XXXIV
+
+[Brian Ganz](https://www.brianganz.net/)
+
+The Addams Family
+
+[Jača](https://www.jacamusic.com/)
 
 [The Oyster Boys](https://oysterboys.com/) (scheduled)
 
