@@ -1,3 +1,8 @@
+---
+title: SP Tech Crew
+layout: home
+---
+
 <!-- title: SP Tech Crew -->
 <!-- categories: pages -->
 <!-- tags: home -->
