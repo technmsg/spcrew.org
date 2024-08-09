@@ -2,6 +2,7 @@
 layout: page
 title: Alumni
 nav_enabled: true
+nav_order: 9
 ---
 
 <!-- title: Alumni -->

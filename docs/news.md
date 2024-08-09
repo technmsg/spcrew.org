@@ -2,6 +2,7 @@
 layout: page
 title: News
 nav_enabled: true
+nav_order: 2
 ---
 
 <!-- title: News -->

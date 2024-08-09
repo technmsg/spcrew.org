@@ -2,6 +2,7 @@
 layout: page
 title: Support
 nav_enabled: true
+nav_order: 10
 ---
 
 <!-- title: Support -->

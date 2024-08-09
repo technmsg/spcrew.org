@@ -1,7 +1,8 @@
 ---
 layout: page
-title: SP Tech Crew Volunteers
+title: Volunteers
 nav_enabled: true
+nav_order: 8
 ---
 
 <!-- title: SP Tech Crew Volunteers -->

@@ -2,6 +2,7 @@
 layout: page
 title: Thanks
 nav_enabled: true
+nav_order: 11
 ---
 
 <!-- title: Thanks -->

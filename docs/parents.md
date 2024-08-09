@@ -3,6 +3,7 @@ layout: page
 title: Parents
 nav_enabled: true
 nav_exclude: true
+nav_order: 7
 ---
 
 <!-- title: Parents -->

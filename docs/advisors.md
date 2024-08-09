@@ -2,6 +2,7 @@
 layout: page
 title: Advisors
 nav_enabled: true
+nav_order: 5
 ---
 
 <!-- title: Advisors -->

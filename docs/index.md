@@ -2,14 +2,8 @@
 title: SP Tech Crew
 layout: home
 permalink: /
+last_modified_date: 2017-06-16
 ---
-
-<!-- categories: pages -->
-<!-- tags: home -->
-<!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2017-06-16T22:30:00-05:00 -->
-
-# SP Tech Crew
 
 Welcome!
 

@@ -2,6 +2,7 @@
 layout: page
 title: Calendar
 nav_enabled: true
+nav_order: 3
 ---
 
 <!-- title: Calendar -->

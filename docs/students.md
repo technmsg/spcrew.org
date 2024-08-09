@@ -2,6 +2,7 @@
 layout: page
 title: Students
 nav_enabled: true
+nav_order: 4
 ---
 
 <!-- title: Students -->
