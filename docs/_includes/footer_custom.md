@@ -20,3 +20,6 @@
 
 <!-- copyright and licensing -->
 <p><small>Copyright <a href="errata.html">&copy;</a> 2016-2024 SPHS Tech Crew, licensed under a <a href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons License</a>. Some rights reserved.</small></p>
+
+<!-- cloudflare web analytics -->
+<!--<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "3bd1e5f51cca4f54b9fec5ddb6350033"}'></script>-->
