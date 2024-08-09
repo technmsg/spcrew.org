@@ -2,7 +2,7 @@
 layout: page
 title: Parents
 nav_enabled: true
-nav_exclude: true
+nav_exclude: false
 nav_order: 7
 last_modified_date: 2023-06-02
 ---
