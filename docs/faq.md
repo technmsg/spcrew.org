@@ -2,6 +2,7 @@
 layout: page
 title: Frequently Asked Questions
 nav_enabled: true
+nav_exclude: true
 ---
 
 <!-- title: Frequently Asked Questions -->

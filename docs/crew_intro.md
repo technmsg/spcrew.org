@@ -2,6 +2,7 @@
 layout: page
 title: Introduction to Crew
 nav_enabled: true
+nav_exclude: true
 ---
 
 <!-- title: Introduction to Crew -->

@@ -2,6 +2,7 @@
 layout: page
 title: Crew Training
 nav_enabled: true
+nav_exclude: true
 ---
 
 <!-- title: Introduction to Crew -->

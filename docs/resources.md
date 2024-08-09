@@ -2,6 +2,7 @@
 layout: page
 title: Resources
 nav_enabled: true
+nav_exclude: true
 ---
 
 <!-- title: Resources -->

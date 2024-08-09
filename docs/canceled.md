@@ -2,6 +2,7 @@
 layout: page
 title: Donation Canceled
 nav_enabled: false
+nav_exclude: true
 ---
 
 <!-- title: Donation Canceled -->

@@ -2,6 +2,7 @@
 layout: page
 title: Lighting Looks
 nav_enabled: true
+nav_exclude: true
 ---
 
 <!-- title: Lighting Looks -->

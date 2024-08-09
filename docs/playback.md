@@ -2,6 +2,7 @@
 layout: page
 title: Playback Formats
 nav_enabled: true
+nav_exclude: true
 ---
 
 <!-- title: Playback Formats -->

@@ -2,6 +2,7 @@
 layout: page
 title: Parents
 nav_enabled: true
+nav_exclude: true
 ---
 
 <!-- title: Parents -->

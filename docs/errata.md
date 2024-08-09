@@ -2,6 +2,7 @@
 layout: page
 title: Errata
 nav_enabled: true
+nav_exclude: true
 ---
 
 <!-- title: Errata -->
