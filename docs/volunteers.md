@@ -10,7 +10,7 @@ last_modified_date: 2024-08-09
 
 We love it when our SPHS alumni come back to help us. We also love it when our tech crew parents help us out.
  
-Effective immediately, all crew volunteers must:
+All crew volunteers must:
 
 1. Submit to a [chaperone/volunteer background investigation](https://www.aacps.org/o/aacps/page/chaperonevolunteer-background-investigations). Don't worry, it's a very quick form to fill out.
 2. View the 11 minute [Sexual Harassment and Child Abuse](https://www.youtube.com/playlist?list=PL63heeIfctOufz7O6AA0ByiSv1ctT8IAx) training on YouTube (also linked [here](https://www.aacps.org/o/aacps/page/school-safety-security)).
