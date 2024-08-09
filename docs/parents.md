@@ -78,7 +78,7 @@ When working events, we require:
 * black t-shirt or polo, without logos
 * black pants: work pants, jeans, duck, or cargo
 
-Clothes can be purchased at Walmart, Target, Old Navy, or most anywhere else that has school uniforms; basic black Hanes t-shirts are $2-3 at Walmart, $7 for slightly nicer stuff at Old Navy, $11 at Kohl's. [Inexpensive black T-shirts are also available in 4-packs on Amazon](http://amzn.to/2rVOL15), although not always in women's cuts. We've assembled an [Amazon list of "tech threads" that are suitable for working events](http://amzn.to/2qXhqPY) that you can use to purchase or for comparison.
+Clothes can be purchased at Walmart, Target, Old Navy, or most anywhere else that has school uniforms; basic black Hanes t-shirts are $2-3 at Walmart, $7 for slightly nicer stuff at Old Navy, $11 at Kohl's. [Inexpensive black T-shirts are also available in 4-packs on Amazon](http://amzn.to/2rVOL15), although not always in women's cuts. We've assembled an [Amazon list of "tech threads" that are suitable for working events](https://www.amazon.com/hz/wishlist/ls/1V5Y5M2XUCTCL?tag=sptech-20) that you can use to purchase or for comparison.
 
 ℹ️ As an Amazon Associate we earn from qualifying purchases. ([details](https://spcrew.org/errata.html))
 
