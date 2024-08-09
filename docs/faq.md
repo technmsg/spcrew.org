@@ -3,14 +3,8 @@ layout: page
 title: Frequently Asked Questions
 nav_enabled: true
 nav_exclude: true
+last_modified_date: 2022-08-30
 ---
-
-<!-- title: Frequently Asked Questions -->
-<!-- categories: pages -->
-<!-- tags: faq -->
-<!-- published: 2018-06-06T16:00:00-05:00 -->
-<!-- updated: 2022-08-30T20:20:00-05:00 -->
-<!-- summary: Frequently asked questions of SPHS Tech Crew. -->
 
 # Frequently Asked Questions
 

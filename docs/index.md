@@ -2,6 +2,7 @@
 title: SP Tech Crew
 layout: home
 permalink: /
+nav_exclude: true
 last_modified_date: 2017-06-16
 ---
 

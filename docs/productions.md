@@ -3,14 +3,8 @@ layout: page
 title: Productions
 nav_enabled: true
 nav_order: 6
+last_modified_date: 2024-06-08
 ---
-
-<!-- title: Productions -->
-<!-- categories: pages -->
-<!-- tags: productions -->
-<!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2024-06-08T15:14:00-05:00 -->
-<!-- summary: Past productions and events that SPHS tech crew have worked on, including galleries of show shirts, programs, and other memorabilia. -->
 
 # Productions
 

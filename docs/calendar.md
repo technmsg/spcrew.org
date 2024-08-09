@@ -3,14 +3,8 @@ layout: page
 title: Calendar
 nav_enabled: true
 nav_order: 3
+last_modified_date: 2021-05-06
 ---
-
-<!-- title: Calendar -->
-<!-- categories: pages -->
-<!-- tags: calendar -->
-<!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2021-05-06T10:55:00-05:00 -->
-<!-- summary: Calendar of events for SPHS Tech Crew. -->
 
 # Calendar
 

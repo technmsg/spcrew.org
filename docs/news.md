@@ -3,14 +3,8 @@ layout: page
 title: News
 nav_enabled: true
 nav_order: 2
+last_modified_date: 2023-08-29
 ---
-
-<!-- title: News -->
-<!-- categories: pages -->
-<!-- tags: news -->
-<!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2023-08-29T14:15:00-05:00 -->
-<!-- summary: All the news that's fit to print about SPHS Tech Crew. -->
 
 # News
 

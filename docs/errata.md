@@ -3,14 +3,8 @@ layout: page
 title: Errata
 nav_enabled: true
 nav_exclude: true
+last_modified_date: 2023-08-29
 ---
-
-<!-- title: Errata -->
-<!-- categories: pages -->
-<!-- tags: legal,policies,privacy,affiliations -->
-<!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2023-08-29T21:30:00-05:00 -->
-<!-- summary: Nothing but the fine print here: site policies concerning copyright, affiliations, privacy policy, and all that legal mumbo jumbo. -->
 
 # Errata
 

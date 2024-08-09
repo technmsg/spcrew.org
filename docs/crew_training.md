@@ -3,14 +3,8 @@ layout: page
 title: Crew Training
 nav_enabled: true
 nav_exclude: true
+last_modified_date: 2017-06-27
 ---
-
-<!-- title: Introduction to Crew -->
-<!-- categories: pages -->
-<!-- tags: students,training -->
-<!-- published: 2017-06-27T10:00:00-05:00 -->
-<!-- updated: 2017-06-27T10:00:00-05:00 -->
-<!-- summary: The training regimen of SPHS tech crew. -->
 
 # Crew Training
 

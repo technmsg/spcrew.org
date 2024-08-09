@@ -3,16 +3,8 @@ layout: page
 title: Alumni
 nav_enabled: true
 nav_order: 9
+last_modified_date: 2024-08-29
 ---
-
-<!-- title: Alumni -->
-<!-- categories: pages -->
-<!-- tags: alumni -->
-<!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2023-08-29T08:35:00-05:00 -->
-<!-- summary: We have a long tradition of former students that return to assist, passing down what they've learned in tech, school, and industry to current students and advisors alike. -->
-
-# Alumni
 
 We have a long tradition of former SPHS students that return to assist, passing down what they've learned in tech, school, and industry to current students and advisors alike.
 

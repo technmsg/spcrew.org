@@ -3,14 +3,8 @@ layout: page
 title: Playback Formats
 nav_enabled: true
 nav_exclude: true
+last_modified_date: 2018-10-08
 ---
-
-<!-- title: Playback Formats -->
-<!-- categories: pages -->
-<!-- tags: news -->
-<!-- published: 2018-05-22T16:00:00-05:00 -->
-<!-- updated: 2018-10-08T13:35:00-05:00 -->
-<!-- summary: Audio and video formats supported by SPHS Tech Crew. -->
 
 # Playback Formats
 

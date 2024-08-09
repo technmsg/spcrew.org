@@ -3,14 +3,8 @@ layout: page
 title: Volunteers
 nav_enabled: true
 nav_order: 8
+last_modified_date: 2021-09-27
 ---
-
-<!-- title: SP Tech Crew Volunteers -->
-<!-- categories: pages -->
-<!-- tags: volunteers -->
-<!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2021-09-27T21:55:00-05:00 -->
-<!-- summary: We love it when our alumni come back to help us. We also love it when our crew parents help us out. -->
 
 # SP Tech Crew Volunteers
 

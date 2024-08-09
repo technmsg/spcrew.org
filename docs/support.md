@@ -3,14 +3,8 @@ layout: page
 title: Support
 nav_enabled: true
 nav_order: 10
+last_modified_date: 2023-08-29
 ---
-
-<!-- title: Support -->
-<!-- categories: pages -->
-<!-- tags: support,donation -->
-<!-- published: 2021-10-01T17:30:00-05:00 -->
-<!-- updated: 2023-08-29T13:50:00-05:00 -->
-<!-- summary: Never expectated but always appreciated. -->
 
 # Support
 

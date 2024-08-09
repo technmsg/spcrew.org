@@ -3,14 +3,8 @@ layout: page
 title: Donation Received
 nav_enabled: false
 nav_exclude: true
+last_modified_date: 2021-10-01
 ---
-
-<!-- title: Donation Received -->
-<!-- categories: pages -->
-<!-- tags: support,donation -->
-<!-- published: 2021-10-01T17:30:00-05:00 -->
-<!-- updated: 2021-10-01T17:30:00-05:00 -->
-<!-- summary: Never expectated but always appreciated. -->
 
 # Donation Received!
 

@@ -3,14 +3,8 @@ layout: page
 title: Students
 nav_enabled: true
 nav_order: 4
+last_modified_date: 2017-06-06
 ---
-
-<!-- title: Students -->
-<!-- categories: pages -->
-<!-- tags: students -->
-<!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2017-06-06T22:30:00-05:00 -->
-<!-- summary: Whether you're brand new or legacy crew. -->
 
 # Students
 

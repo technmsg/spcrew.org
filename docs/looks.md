@@ -3,14 +3,8 @@ layout: page
 title: Lighting Looks
 nav_enabled: true
 nav_exclude: true
+last_modified_date: 2022-07-04
 ---
-
-<!-- title: Lighting Looks -->
-<!-- categories: pages -->
-<!-- tags: lighting -->
-<!-- published: 2022-07-04T08:00:00-05:00 -->
-<!-- updated: 2022-07-04T08:00:00-05:00 -->
-<!-- summary: Our look book for staffed events. -->
 
 # Lighting Looks
 

@@ -3,14 +3,8 @@ layout: page
 title: Introduction to Crew
 nav_enabled: true
 nav_exclude: true
+last_modified_date: 2021-08-26
 ---
-
-<!-- title: Introduction to Crew -->
-<!-- categories: pages -->
-<!-- tags: students,intro -->
-<!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2021-08-26T18:30:00-05:00 -->
-<!-- summary: An introduction to SPHS tech crew for new and returning students. -->
 
 # Introduction to Crew
 

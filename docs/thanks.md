@@ -3,14 +3,8 @@ layout: page
 title: Thanks
 nav_enabled: true
 nav_order: 11
+last_modified_date: 2023-08-29
 ---
-
-<!-- title: Thanks -->
-<!-- categories: pages -->
-<!-- tags: thanks,kudos -->
-<!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2023-08-29T07:15:00-05:00 -->
-<!-- summary: Special thanks to the following individuals for all their dedication and insight over the years, without which we wouldn't be the crew we are today. -->
 
 # Thanks
 

@@ -3,14 +3,8 @@ layout: page
 title: Resources
 nav_enabled: true
 nav_exclude: true
+last_modified_date: 2019-04-01
 ---
-
-<!-- title: Resources -->
-<!-- categories: pages -->
-<!-- tags: resources,manuals -->
-<!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2019-04-01T10:10:00-05:00 -->
-<!-- summary: The secret stash of guides, manuals, and other resources that enable the SPHS tech crew to do what we do. -->
 
 # Resources
 

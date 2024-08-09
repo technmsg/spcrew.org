@@ -4,14 +4,8 @@ title: Parents
 nav_enabled: true
 nav_exclude: true
 nav_order: 7
+last_modified_date: 2023-06-02
 ---
-
-<!-- title: Parents -->
-<!-- categories: pages -->
-<!-- tags: parents,expectations -->
-<!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2023-06-02T18:30:00-05:00 -->
-<!-- summary: A few words for the parents of students involved in SPHS tech crew. -->
 
 # Parents
 

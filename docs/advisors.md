@@ -3,14 +3,8 @@ layout: page
 title: Advisors
 nav_enabled: true
 nav_order: 5
+last_modified_date: 2017-06-29
 ---
-
-<!-- title: Advisors -->
-<!-- categories: pages -->
-<!-- tags: advisors -->
-<!-- published: 2017-06-06T22:30:00-05:00 -->
-<!-- updated: 2017-06-29T09:30:00-05:00 -->
-<!-- summary: Meet the advisors of SPHS tech crew. -->
 
 # Advisors
 
