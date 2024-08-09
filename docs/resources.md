@@ -1,3 +1,9 @@
+---
+layout: page
+title: Resources
+nav_enabled: true
+---
+
 <!-- title: Resources -->
 <!-- categories: pages -->
 <!-- tags: resources,manuals -->

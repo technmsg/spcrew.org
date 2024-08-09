@@ -1,3 +1,9 @@
+---
+layout: page
+title: Thanks
+nav_enabled: true
+---
+
 <!-- title: Thanks -->
 <!-- categories: pages -->
 <!-- tags: thanks,kudos -->

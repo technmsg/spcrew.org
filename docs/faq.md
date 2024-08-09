@@ -1,3 +1,9 @@
+---
+layout: page
+title: Frequently Asked Questions
+nav_enabled: true
+---
+
 <!-- title: Frequently Asked Questions -->
 <!-- categories: pages -->
 <!-- tags: faq -->

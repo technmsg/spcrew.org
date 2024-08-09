@@ -1,3 +1,9 @@
+---
+layout: page
+title: Crew Training
+nav_enabled: true
+---
+
 <!-- title: Introduction to Crew -->
 <!-- categories: pages -->
 <!-- tags: students,training -->

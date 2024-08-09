@@ -1,3 +1,9 @@
+---
+layout: page
+title: Alumni
+nav_enabled: true
+---
+
 <!-- title: Alumni -->
 <!-- categories: pages -->
 <!-- tags: alumni -->

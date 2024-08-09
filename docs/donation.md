@@ -1,3 +1,9 @@
+---
+layout: page
+title: Donation Received
+nav_enabled: false
+---
+
 <!-- title: Donation Received -->
 <!-- categories: pages -->
 <!-- tags: support,donation -->

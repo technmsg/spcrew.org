@@ -1,3 +1,9 @@
+---
+layout: page
+title: Playback Formats
+nav_enabled: true
+---
+
 <!-- title: Playback Formats -->
 <!-- categories: pages -->
 <!-- tags: news -->

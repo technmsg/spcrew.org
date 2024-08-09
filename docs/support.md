@@ -1,3 +1,9 @@
+---
+layout: page
+title: Support
+nav_enabled: true
+---
+
 <!-- title: Support -->
 <!-- categories: pages -->
 <!-- tags: support,donation -->

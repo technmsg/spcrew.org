@@ -1,3 +1,9 @@
+---
+layout: page
+title: Students
+nav_enabled: true
+---
+
 <!-- title: Students -->
 <!-- categories: pages -->
 <!-- tags: students -->

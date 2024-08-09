@@ -1,3 +1,9 @@
+---
+layout: page
+title: Introduction to Crew
+nav_enabled: true
+---
+
 <!-- title: Introduction to Crew -->
 <!-- categories: pages -->
 <!-- tags: students,intro -->

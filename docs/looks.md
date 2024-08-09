@@ -1,3 +1,9 @@
+---
+layout: page
+title: Lighting Looks
+nav_enabled: true
+---
+
 <!-- title: Lighting Looks -->
 <!-- categories: pages -->
 <!-- tags: lighting -->

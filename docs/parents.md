@@ -1,3 +1,9 @@
+---
+layout: page
+title: Parents
+nav_enabled: true
+---
+
 <!-- title: Parents -->
 <!-- categories: pages -->
 <!-- tags: parents,expectations -->

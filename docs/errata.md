@@ -1,3 +1,9 @@
+---
+layout: page
+title: Errata
+nav_enabled: true
+---
+
 <!-- title: Errata -->
 <!-- categories: pages -->
 <!-- tags: legal,policies,privacy,affiliations -->

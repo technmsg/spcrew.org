@@ -1,3 +1,9 @@
+---
+layout: page
+title: Donation Canceled
+nav_enabled: false
+---
+
 <!-- title: Donation Canceled -->
 <!-- categories: pages -->
 <!-- tags: support,donation -->

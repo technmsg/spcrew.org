@@ -1,3 +1,9 @@
+---
+layout: page
+title: Calendar
+nav_enabled: true
+---
+
 <!-- title: Calendar -->
 <!-- categories: pages -->
 <!-- tags: calendar -->

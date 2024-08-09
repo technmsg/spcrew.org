@@ -1,3 +1,9 @@
+---
+layout: page
+title: News
+nav_enabled: true
+---
+
 <!-- title: News -->
 <!-- categories: pages -->
 <!-- tags: news -->

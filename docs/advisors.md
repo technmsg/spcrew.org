@@ -1,3 +1,9 @@
+---
+layout: page
+title: Advisors
+nav_enabled: true
+---
+
 <!-- title: Advisors -->
 <!-- categories: pages -->
 <!-- tags: advisors -->

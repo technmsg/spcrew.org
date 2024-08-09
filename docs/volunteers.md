@@ -1,3 +1,9 @@
+---
+layout: page
+title: SP Tech Crew Volunteers
+nav_enabled: true
+---
+
 <!-- title: SP Tech Crew Volunteers -->
 <!-- categories: pages -->
 <!-- tags: volunteers -->

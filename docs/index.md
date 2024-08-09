@@ -1,7 +1,6 @@
 ---
 title: SP Tech Crew
-layout: default
-description: Whether you call it stage crew, tech crew, crew, or tech, we're those folks at Severna Park High School dressed in black working behind the scenes.
+layout: home
 permalink: /
 ---
 

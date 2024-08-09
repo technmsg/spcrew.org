@@ -1,3 +1,9 @@
+---
+layout: page
+title: Productions
+nav_enabled: true
+---
+
 <!-- title: Productions -->
 <!-- categories: pages -->
 <!-- tags: productions -->

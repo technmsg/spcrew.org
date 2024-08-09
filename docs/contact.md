@@ -1,3 +1,9 @@
+---
+layout: page
+title: Contact Us
+nav_enabled: true
+---
+
 <!-- title: Contact Us -->
 <!-- categories: pages -->
 <!-- tags: contact -->
