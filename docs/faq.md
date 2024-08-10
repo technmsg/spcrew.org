@@ -52,7 +52,7 @@ The [certified capacity of the stage](https://www.flickr.com/photos/techmsg/4415
 
 The _delay speakers_ in the back ARE working, but their sound output will be almost indistinguishable from sound from the other house speakers. That's by design.
 
-See [Sound Delay Explained](http://www.sxsevents.co.uk/about/resource-hub/explanatory-articles/sound-delay-explained) for more information.
+See [straight delay](https://en.wikipedia.org/wiki/Delay_%28audio_effect%29#Straight_delay) for more information.
 
 **Can you dim or disable the under seat aisle lights?**
 

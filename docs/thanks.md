@@ -75,7 +75,7 @@ Organizations too!
 [AED](https://aedevents.com/),
 [Afterglow Lighting](https://afterglowlighting.net/),
 [Audio Library](https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA),
-[Clement Hardware](https://clementhardware.com/),
+Clement Hardware,
 [Cloudera](https://www.cloudera.com),
 [Electro Sound Systems](https://electrosoundsystems.com/),
 [Excel Event & Lighting Solutions](https://exceleventsolutions.com/),

@@ -28,7 +28,7 @@ We accept one-time and recurring donations via PayPal balance, bank account, or 
 
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<inout type="hidden" name="cmd" value="_donations">
+<input type="hidden" name="cmd" value="_donations">
 <input type="hidden" name="business" value="donate@spcrew.org">
 <input type="hidden" name="item_name" value="SP Tech Crew">
 <input type="hidden" name="cancel_return" value="https://spcrew.org/canceled.html">

@@ -3,12 +3,12 @@ layout: page
 title: Alumni
 nav_enabled: true
 nav_order: 9
-last_modified_date: 2024-08-29
+last_modified_date: 2024-08-09
 ---
 
 We have a long tradition of former SPHS students that return to assist, passing down what they've learned in tech, school, and industry to current students and advisors alike.
 
-Alumni can join the [crew alumni](https://groups.google.com/forum/#!forum/crew-alumni) list on Google Groups. If you don't have a Gmail account, [contact us](contact.html) to sign up.
+Alumni can join the [crew alumni](https://groups.google.com/forum/#!forum/crew-alumni) list on Google Groups. If you don't have a Google account associated with your email, [contact us](contact.html) to sign up.
 
 ## Manifesto
 
