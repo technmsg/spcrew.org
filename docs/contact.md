@@ -15,7 +15,7 @@ Your question may already be addressed in the [FAQ](faq.html). If not, send us a
 
 Student scheduling issues ought to be sent to the advisors.
 
-* Advisors: [staff@spcrew.org](staff@spcrew.org)
+* Advisors: [staff@spcrew.org](mailto:staff@spcrew.org)
 * Webmaster: [webguru@spcrew.org](mailto:webguru@spcrew.org)
 
 You can also elect to receive [occasional email updates](https://groups.google.com/forum/#!forum/crew-announce/join) from us, usually a handful every year.
