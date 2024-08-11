@@ -120,7 +120,7 @@ Let us know if a link is broken; we have most of the PDFs archived in Google Dri
 
 Quadraverb 2
 
-* Reference Manual ([PDF](https://vault.spcrew.org/alesis/quadraverb2_manual.pdf))
+* Reference Manual ([PDF](https://vault.spcrew.org/alesis_quadraverb2_manual.pdf))
 
 ### Allen & Heath
 
@@ -152,7 +152,7 @@ Quadraverb 2
 
 [GEQ3102](http://www.music-group.com/Categories/Behringer/Signal-Processors/Equalizers/GEQ3102/p/P0088) Ultra-Graph Pro
 
-* User's Manual ([PDF](https://vault.spcrew.org/behringer/1620-GEQ3102Manual.pdf))
+* User's Manual ([PDF](https://vault.spcrew.org/behringer_1620-GEQ3102Manual.pdf))
 
 [MDX2100](http://www.music-group.com/Categories/Behringer/Signal-Processors/Compressors-Limiters/MDX2100/p/P0001) Composer
 
@@ -225,7 +225,7 @@ FR M-800 amplifier
 
 PRO 3500
 
-* Owner's Manual ([PDF](https://vault.spcrew.org/monster/pro_3500.pdf))
+* Owner's Manual ([PDF](https://vault.spcrew.org/monster_pro_3500.pdf))
 
 ### Radial Engineering
 
