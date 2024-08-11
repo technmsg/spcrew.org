@@ -3,7 +3,7 @@ layout: page
 title: Productions
 nav_enabled: true
 nav_order: 6
-last_modified_date: 2024-06-08
+last_modified_date: 2024-08-11
 ---
 
 # Productions
@@ -39,13 +39,17 @@ St. John the Evangelist Christmas Eve Mass (scheduled)
 
 ### 2023-2024
 
-County Dance Summer Program Concert (scheduled)
+AACPS Summer High School Graduation
 
-Falcon Drama Camp (scheduled)
+Falcon RNR Camp
+
+County Dance Summer Program Concert
+
+Falcon Drama Camp
 
 [Jamz Dance Studio](http://jamzdancestudio.com/)
 
-Evening High School Graduation
+AACPS Evening High School Graduation
 
 Chesapeake Science Point Graduation
 
