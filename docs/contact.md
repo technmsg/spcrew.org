@@ -2,7 +2,7 @@
 layout: page
 title: Contact Us
 nav_enabled: true
-last_modified_date: 2024-06-08
+last_modified_date: 2024-08-11
 ---
 
 # Contact Us
@@ -18,7 +18,7 @@ Student scheduling issues ought to be sent to the advisors.
 * Advisors: [staff@spcrew.org](mailto:staff@spcrew.org)
 * Webmaster: [webguru@spcrew.org](mailto:webguru@spcrew.org)
 
-You can also elect to receive [occasional email updates](https://groups.google.com/forum/#!forum/crew-announce/join) from us, usually a handful every year.
+You can also elect to receive [occasional email updates](mailto:crew-announce+subscribe@googlegroups.com) from us, usually a handful every year.
 
 Note: We do not publicize individual email addresses.
 
