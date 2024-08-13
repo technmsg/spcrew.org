@@ -3,7 +3,7 @@ layout: page
 title: Alumni
 nav_enabled: true
 nav_order: 9
-last_modified_date: 2024-08-11
+last_modified_date: 2024-08-13
 ---
 
 We have a long tradition of former SPHS students that return to assist, passing down what they've learned in tech, school, and industry to current students and advisors alike.
@@ -36,5 +36,7 @@ Alumni should:
 [Bruce Blackman](https://www.legacy.com/us/obituaries/capitalgazette/name/bruce-blackman-obituary?id=16458254) (1956-2017)
 
 [Sybil DiMaggio](https://www.singletonfuneralhome.com/obituary/Sybil-DiMaggio) (1976 - 2023)
+
+[Lori Stokes](https://www.severnaparkvoice.com/stories/remembering-lori-stokes,65860) (1971-2024)
 
 <!-- EOF -->
