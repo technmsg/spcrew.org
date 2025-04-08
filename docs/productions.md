@@ -27,7 +27,7 @@ Shows are listed in reverse chronological order within each school year, i.e. sp
 
 ### 2024-2025
 
-RNR XXXV (scheduled)
+RNR XXXVI
 
 Catch Me If You Can (scheduled)
 
@@ -63,7 +63,7 @@ National Board Certification Support
 
 SPES Variety Show
 
-RNR XXXIV
+RNR XXXV
 
 [Brian Ganz](https://www.brianganz.net/)
 
