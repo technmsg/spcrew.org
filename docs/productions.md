@@ -27,15 +27,43 @@ Shows are listed in reverse chronological order within each school year, i.e. sp
 
 ### 2024-2025
 
+**UPCOMING**
+
+AACPS Summer School Graduation
+
+[Jeanette's School of Dance](https://jeanettesschoolofdance.com/)
+
+[Jamz Dance Studio](http://jamzdancestudio.com/) Showcase
+
+AACPS Evening High Graduation
+
+AACPS Virtual Academy Graduation
+
+Clue
+
+St. John the Evangelist Easter Mass
+
+**GOOD TIMES PAST**
+
+[Charm City Junction](https://www.charmcityjunction.com/)
+
+[The Hall Sisters](https://thehallsisters.com/)
+
+Severna Park Elementary Variety Show
+
 RNR XXXVI
 
-Catch Me If You Can (scheduled)
+[Shenandoah Run](https://www.shenandoahrun.com/)
 
-St. John the Evangelist Christmas Eve Mass (scheduled)
+Catch Me If You Can
 
-[Annapolis Symphony Orchestra](https://annapolissymphony.org/) (scheduled)
+St. John the Evangelist Christmas Eve Mass
 
-[Harbor City Music Company](https://harborcitymusiccompany.org/) (scheduled)
+[Dance Center of Severna Park](https://www.spcommunitycenter.org/programs-events/dance/) Recital
+
+[Annapolis Symphony Orchestra](https://annapolissymphony.org/)
+
+[Harbor City Music Company](https://harborcitymusiccompany.org/)
 
 ### 2023-2024
 
