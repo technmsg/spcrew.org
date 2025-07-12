@@ -35,12 +35,18 @@
     Message:
     <br>
     <textarea id="text" rows="5" cols="100" rows="30">
-Needs:
+For a more detailed schedule for the event, check the calendar.
+
+Staffing:
 XX lighting techs
 XX sound techs
 
 Other notes:
- 
+XX
+
+If you are interested in working this event, please reply-all to this email.
+
+Thanks!
     </textarea>
     <br>
     <small>(modify as needed)</small>
@@ -59,7 +65,7 @@ Other notes:
         const eventname = document.getElementById('eventname').value
         const eventdate = document.getElementById('eventdate').value
         const subject = '📣 Call for Labor: ' + eventname + ' (' + eventdate + ')'
-        const body = 'Event: ' + eventname + '\nDate: ' + eventdate + '\n\n' + document.getElementById('text').value;
+        const body = 'Event: ' + eventname + '\nDate: ' + eventdate + '\nTime: XX\n\n' + document.getElementById('text').value;
         const mailtoLink = `mailto:${email}?bcc=${bcc}&subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
         window.open(mailtoLink, '_blank');
       };
