@@ -3,7 +3,7 @@ layout: page
 title: Errata
 nav_enabled: true
 nav_exclude: true
-last_modified_date: 2023-08-29
+last_modified_date: 2025-08-29
 ---
 
 # Errata
@@ -18,9 +18,7 @@ Learn all about [Creative Commons](https://creativecommons.org/about/) or consul
 
 ## Affiliations
 
-The opinions expressed on this site are those of the site maintainers and not those of their respective employers (past or present), [Anne Arundel County Public Schools](https://www.aacps.org), or the [Falcon Drama Boosters](https://www.sphsdrama.com/about).
-
-The site maintainer is a participant in the [Amazon Services LLC Associates Program](https://affiliate-program.amazon.com/), an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to [amazon.com](https://www.amazon.com?tag=sptech-20). As an Amazon Associate we earn from qualifying purchases. All commissions from the program are used to subsidize the cost of web site hosting and [support](support.html) tech crew.
+The opinions expressed on this site are those of the site maintainers and not those of their respective employers (past or present), [Anne Arundel County Public Schools](https://www.aacps.org), or the [Falcon Drama Boosters](https://sphsdrama.membershiptoolkit.com/our_board).
 
 ## Privacy
 
