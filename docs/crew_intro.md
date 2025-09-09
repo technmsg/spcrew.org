@@ -3,7 +3,7 @@ layout: page
 title: Introduction to Crew
 nav_enabled: true
 nav_exclude: true
-last_modified_date: 2025-08-29
+last_modified_date: 2025-09-09
 ---
 
 # Introduction to Crew
@@ -51,7 +51,6 @@ Work days are posted in many places:
  
 * on the Google Calendar - [spcrew.org/calendar.html](calendar.html)
 * student email list
-* Slack #calendar
  
 Other information along with changes in work days or times will be sent out via email, so it's important for all students to check their email daily.
  
