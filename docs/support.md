@@ -3,7 +3,7 @@ layout: page
 title: Support
 nav_enabled: true
 nav_order: 10
-last_modified_date: 2025-08-29
+last_modified_date: 2025-11-05
 ---
 
 # Support
@@ -12,7 +12,7 @@ Tech crew doesn't collect fees from its members or for providing services to sch
 
 ## Donations
 
-Contact us if you'd like to make a monetary donation.
+We accept monetary donations [via OSP](https://osp.osmsinc.com/AnneArundel/BVModules/ProductTemplates/Bvc2013/Product.aspx?productid=A2013-VAR256).
   
 ## Materials
 
